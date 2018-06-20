@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\bin\Debug\netcoreapp2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\bin\Debug\netcoreapp2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\bin\Debug\netcoreapp2.0\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\P03_BarraksWars\bin\Debug\netcoreapp2.0\Microsoft.Extensions.DependencyInjection.Abstractions.xml

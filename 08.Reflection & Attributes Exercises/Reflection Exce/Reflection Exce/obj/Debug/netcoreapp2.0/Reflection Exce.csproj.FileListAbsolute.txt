@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\bin\Debug\netcoreapp2.0\Reflection Exce.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\bin\Debug\netcoreapp2.0\Reflection Exce.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\bin\Debug\netcoreapp2.0\Reflection Exce.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\bin\Debug\netcoreapp2.0\Reflection Exce.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\bin\Debug\netcoreapp2.0\Reflection Exce.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\obj\Debug\netcoreapp2.0\Reflection Exce.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\obj\Debug\netcoreapp2.0\Reflection Exce.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\obj\Debug\netcoreapp2.0\Reflection Exce.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\obj\Debug\netcoreapp2.0\Reflection Exce.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\obj\Debug\netcoreapp2.0\Reflection Exce.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\08.Reflection & Attributes Exce\Reflection Exce\Reflection Exce\obj\Debug\netcoreapp2.0\Reflection Exce.pdb
