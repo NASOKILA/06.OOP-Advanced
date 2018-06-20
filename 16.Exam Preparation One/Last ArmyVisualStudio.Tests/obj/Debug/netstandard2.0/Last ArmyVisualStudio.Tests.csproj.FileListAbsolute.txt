@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\Last ArmyVisualStudio.Tests.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\Last ArmyVisualStudio.Tests.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\obj\Debug\netstandard2.0\Last ArmyVisualStudio.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\obj\Debug\netstandard2.0\Last ArmyVisualStudio.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\obj\Debug\netstandard2.0\Last ArmyVisualStudio.Tests.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\obj\Debug\netstandard2.0\Last ArmyVisualStudio.Tests.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\Mono.Cecil.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\Last ArmyVisualStudio.Tests.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\obj\Debug\netstandard2.0\Last ArmyVisualStudio.Tests.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\obj\Debug\netstandard2.0\Last ArmyVisualStudio.Tests.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\Last Army.exe
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\Last Army.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last ArmyVisualStudio.Tests\bin\Debug\netstandard2.0\Last Army.exe.config

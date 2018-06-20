@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Last Army.exe.config
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Last Army.exe
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Last Army.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\obj\Debug\Last Army.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\obj\Debug\Last Army.exe
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\16.Exam Prep\Last Army\obj\Debug\Last Army.pdb
