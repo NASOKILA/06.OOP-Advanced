@@ -1,0 +1,66 @@
+01.Factoritata sa za da ni generirat instancii na klasove za da ne
+polzvame mnogo 'new' dumata.
+
+02.Interfeisite se slagat v papka 'Contracts' ili 'Interfaces'.
+
+03.Ako nqma da polzvame dadeno neshto izvun klasa mu pravim private pole, ako shte ni trqbva otvun go pravim na public property i posle
+gledame dali da e s 'private set' ili samo s 'get'.
+
+04.Ne trii nikoga namespeisite v softuni gi triem samo za judge
+
+05.V interfeisite vsichko e PUBLIC zatova pishem samo getteri zashtoto ne iskame da imame publichnis setteri.
+
+06.Ako iskame neshto koeto samo da go inicializirame ot konstruktura
+go pravim da e samo s { get; }  OBACHE ako mislim da go promenqme i 
+na drugo mqsto v nashiq klas mu trqbva i private set;
+a ako go setvame izvun klasa mu trqbva i public set; 
+
+07.Assembly e celiq proekt s klasovete v nego.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
