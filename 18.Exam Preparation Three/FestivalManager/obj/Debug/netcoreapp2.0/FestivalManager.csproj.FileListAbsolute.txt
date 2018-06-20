@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.pdb

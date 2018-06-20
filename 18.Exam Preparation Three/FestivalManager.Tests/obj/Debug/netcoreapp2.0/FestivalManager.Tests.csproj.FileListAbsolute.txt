@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\18.Exam Prep 3\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.pdb
