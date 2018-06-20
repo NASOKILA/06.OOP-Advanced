@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.runtimeconfig.dev.json

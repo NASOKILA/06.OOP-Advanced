@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.pdb

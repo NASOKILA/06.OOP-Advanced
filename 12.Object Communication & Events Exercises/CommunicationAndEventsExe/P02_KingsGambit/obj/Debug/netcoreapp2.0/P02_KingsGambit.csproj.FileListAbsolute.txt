@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\12.Obj Communication & Events Exce\CommunicationAndEventsExe\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.pdb
