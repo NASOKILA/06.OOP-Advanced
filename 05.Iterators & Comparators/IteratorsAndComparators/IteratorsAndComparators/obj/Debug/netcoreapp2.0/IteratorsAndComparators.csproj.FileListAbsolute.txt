@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.0\IteratorsAndComparators.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.0\IteratorsAndComparators.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.0\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.0\IteratorsAndComparators.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.0\IteratorsAndComparators.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.0\IteratorsAndComparators.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.0\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.0\IteratorsAndComparators.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\05.Iterators & Comparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.0\IteratorsAndComparators.pdb
