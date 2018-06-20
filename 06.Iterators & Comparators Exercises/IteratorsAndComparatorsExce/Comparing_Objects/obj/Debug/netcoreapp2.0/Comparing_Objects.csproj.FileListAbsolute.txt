@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.pdb

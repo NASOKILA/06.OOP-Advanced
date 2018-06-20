@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\bin\Debug\netcoreapp2.0\Foggy_Game.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\bin\Debug\netcoreapp2.0\Foggy_Game.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\bin\Debug\netcoreapp2.0\Foggy_Game.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\bin\Debug\netcoreapp2.0\Foggy_Game.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\bin\Debug\netcoreapp2.0\Foggy_Game.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\obj\Debug\netcoreapp2.0\Foggy_Game.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\obj\Debug\netcoreapp2.0\Foggy_Game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\obj\Debug\netcoreapp2.0\Foggy_Game.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\obj\Debug\netcoreapp2.0\Foggy_Game.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\obj\Debug\netcoreapp2.0\Foggy_Game.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Foggy_Game\obj\Debug\netcoreapp2.0\Foggy_Game.pdb

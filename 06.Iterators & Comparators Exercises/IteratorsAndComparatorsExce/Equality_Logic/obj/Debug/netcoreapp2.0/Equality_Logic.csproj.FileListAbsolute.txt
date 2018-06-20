@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\bin\Debug\netcoreapp2.0\ListyIteratorClass.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\bin\Debug\netcoreapp2.0\ListyIteratorClass.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\bin\Debug\netcoreapp2.0\ListyIteratorClass.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\bin\Debug\netcoreapp2.0\ListyIteratorClass.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\bin\Debug\netcoreapp2.0\ListyIteratorClass.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\obj\Debug\netcoreapp2.0\ListyIteratorClass.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\obj\Debug\netcoreapp2.0\ListyIteratorClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\obj\Debug\netcoreapp2.0\ListyIteratorClass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\obj\Debug\netcoreapp2.0\ListyIteratorClass.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\obj\Debug\netcoreapp2.0\ListyIteratorClass.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\ListyIteratorClass\obj\Debug\netcoreapp2.0\ListyIteratorClass.pdb

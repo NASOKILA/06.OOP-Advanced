@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\bin\Debug\netcoreapp2.0\Stack_Problem.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\bin\Debug\netcoreapp2.0\Stack_Problem.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\bin\Debug\netcoreapp2.0\Stack_Problem.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\bin\Debug\netcoreapp2.0\Stack_Problem.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\bin\Debug\netcoreapp2.0\Stack_Problem.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\obj\Debug\netcoreapp2.0\Stack_Problem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\obj\Debug\netcoreapp2.0\Stack_Problem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\obj\Debug\netcoreapp2.0\Stack_Problem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\obj\Debug\netcoreapp2.0\Stack_Problem.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\obj\Debug\netcoreapp2.0\Stack_Problem.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\IteratorsAndComparatorsExce\Stack_Problem\obj\Debug\netcoreapp2.0\Stack_Problem.pdb
