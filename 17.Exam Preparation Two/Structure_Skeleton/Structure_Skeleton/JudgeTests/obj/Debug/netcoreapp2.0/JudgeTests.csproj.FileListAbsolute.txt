@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\bin\Debug\netcoreapp2.0\JudgeTests.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\bin\Debug\netcoreapp2.0\JudgeTests.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\bin\Debug\netcoreapp2.0\Minedraft.exe
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\bin\Debug\netcoreapp2.0\Minedraft.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\bin\Debug\netcoreapp2.0\Minedraft.exe.config
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\obj\Debug\netcoreapp2.0\JudgeTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\obj\Debug\netcoreapp2.0\JudgeTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\obj\Debug\netcoreapp2.0\JudgeTests.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\obj\Debug\netcoreapp2.0\JudgeTests.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\bin\Debug\netcoreapp2.0\JudgeTests.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\obj\Debug\netcoreapp2.0\JudgeTests.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\17.Exam Prep 2\Structure_Skeleton\Structure_Skeleton\JudgeTests\obj\Debug\netcoreapp2.0\JudgeTests.pdb
