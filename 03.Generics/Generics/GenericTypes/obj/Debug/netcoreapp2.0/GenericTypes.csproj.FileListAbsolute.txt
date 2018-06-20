@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\bin\Debug\netcoreapp2.0\GenericTypes.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\bin\Debug\netcoreapp2.0\GenericTypes.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\bin\Debug\netcoreapp2.0\GenericTypes.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\bin\Debug\netcoreapp2.0\GenericTypes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\bin\Debug\netcoreapp2.0\GenericTypes.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\obj\Debug\netcoreapp2.0\GenericTypes.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\obj\Debug\netcoreapp2.0\GenericTypes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\obj\Debug\netcoreapp2.0\GenericTypes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\obj\Debug\netcoreapp2.0\GenericTypes.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\obj\Debug\netcoreapp2.0\GenericTypes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\GenericTypes\obj\Debug\netcoreapp2.0\GenericTypes.pdb

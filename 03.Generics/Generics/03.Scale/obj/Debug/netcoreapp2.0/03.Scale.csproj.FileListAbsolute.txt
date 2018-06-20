@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\bin\Debug\netcoreapp2.0\03.Scale.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\bin\Debug\netcoreapp2.0\03.Scale.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\bin\Debug\netcoreapp2.0\03.Scale.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\bin\Debug\netcoreapp2.0\03.Scale.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\bin\Debug\netcoreapp2.0\03.Scale.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\obj\Debug\netcoreapp2.0\03.Scale.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\obj\Debug\netcoreapp2.0\03.Scale.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\obj\Debug\netcoreapp2.0\03.Scale.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\obj\Debug\netcoreapp2.0\03.Scale.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\obj\Debug\netcoreapp2.0\03.Scale.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\03.Scale\obj\Debug\netcoreapp2.0\03.Scale.csprojResolveAssemblyReference.cache

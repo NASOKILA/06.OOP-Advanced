@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.pdb

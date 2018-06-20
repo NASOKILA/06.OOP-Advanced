@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\bin\Debug\netcoreapp2.0\01.Box.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\bin\Debug\netcoreapp2.0\01.Box.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\bin\Debug\netcoreapp2.0\01.Box.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\bin\Debug\netcoreapp2.0\01.Box.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\bin\Debug\netcoreapp2.0\01.Box.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\obj\Debug\netcoreapp2.0\01.Box.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\obj\Debug\netcoreapp2.0\01.Box.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\obj\Debug\netcoreapp2.0\01.Box.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\obj\Debug\netcoreapp2.0\01.Box.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\obj\Debug\netcoreapp2.0\01.Box.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\03.Generics\Generics\01.Box\obj\Debug\netcoreapp2.0\01.Box.pdb
