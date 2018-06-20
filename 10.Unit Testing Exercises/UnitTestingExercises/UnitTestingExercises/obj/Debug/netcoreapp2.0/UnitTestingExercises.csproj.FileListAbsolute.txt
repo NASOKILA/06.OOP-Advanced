@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\bin\Debug\netcoreapp2.0\UnitTestingExercises.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\bin\Debug\netcoreapp2.0\UnitTestingExercises.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\bin\Debug\netcoreapp2.0\UnitTestingExercises.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\bin\Debug\netcoreapp2.0\UnitTestingExercises.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\bin\Debug\netcoreapp2.0\UnitTestingExercises.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\obj\Debug\netcoreapp2.0\UnitTestingExercises.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\obj\Debug\netcoreapp2.0\UnitTestingExercises.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\obj\Debug\netcoreapp2.0\UnitTestingExercises.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\obj\Debug\netcoreapp2.0\UnitTestingExercises.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\obj\Debug\netcoreapp2.0\UnitTestingExercises.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercises\obj\Debug\netcoreapp2.0\UnitTestingExercises.pdb

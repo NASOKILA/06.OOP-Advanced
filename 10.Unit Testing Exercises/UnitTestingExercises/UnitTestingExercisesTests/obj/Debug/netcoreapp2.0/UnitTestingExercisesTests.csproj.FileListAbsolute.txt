@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\UnitTestingExercisesTests.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\UnitTestingExercisesTests.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\UnitTestingExercises.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\UnitTestingExercises.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\obj\Debug\netcoreapp2.0\UnitTestingExercisesTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\obj\Debug\netcoreapp2.0\UnitTestingExercisesTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\obj\Debug\netcoreapp2.0\UnitTestingExercisesTests.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\obj\Debug\netcoreapp2.0\UnitTestingExercisesTests.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\UnitTestingExercisesTests.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\UnitTestingExercisesTests.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\bin\Debug\netcoreapp2.0\UnitTestingExercisesTests.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\obj\Debug\netcoreapp2.0\UnitTestingExercisesTests.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\10.Unit Testing Exce\UnitTestingExercises\UnitTestingExercisesTests\obj\Debug\netcoreapp2.0\UnitTestingExercisesTests.pdb
