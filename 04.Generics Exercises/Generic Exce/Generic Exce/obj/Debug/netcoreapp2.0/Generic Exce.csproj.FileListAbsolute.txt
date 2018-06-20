@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\bin\Debug\netcoreapp2.0\Generic Exce.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\bin\Debug\netcoreapp2.0\Generic Exce.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\bin\Debug\netcoreapp2.0\Generic Exce.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\bin\Debug\netcoreapp2.0\Generic Exce.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\bin\Debug\netcoreapp2.0\Generic Exce.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\obj\Debug\netcoreapp2.0\Generic Exce.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\obj\Debug\netcoreapp2.0\Generic Exce.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\obj\Debug\netcoreapp2.0\Generic Exce.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\obj\Debug\netcoreapp2.0\Generic Exce.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\04.Generics Exce\Generic Exce\Generic Exce\obj\Debug\netcoreapp2.0\Generic Exce.pdb
