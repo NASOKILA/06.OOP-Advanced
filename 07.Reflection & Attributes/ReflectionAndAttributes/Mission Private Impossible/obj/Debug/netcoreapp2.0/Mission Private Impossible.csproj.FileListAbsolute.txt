@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\bin\Debug\netcoreapp2.0\Mission Private Impossible.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\bin\Debug\netcoreapp2.0\Mission Private Impossible.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\bin\Debug\netcoreapp2.0\Mission Private Impossible.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\bin\Debug\netcoreapp2.0\Mission Private Impossible.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\bin\Debug\netcoreapp2.0\Mission Private Impossible.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\obj\Debug\netcoreapp2.0\Mission Private Impossible.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\obj\Debug\netcoreapp2.0\Mission Private Impossible.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\obj\Debug\netcoreapp2.0\Mission Private Impossible.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\obj\Debug\netcoreapp2.0\Mission Private Impossible.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Mission Private Impossible\obj\Debug\netcoreapp2.0\Mission Private Impossible.pdb

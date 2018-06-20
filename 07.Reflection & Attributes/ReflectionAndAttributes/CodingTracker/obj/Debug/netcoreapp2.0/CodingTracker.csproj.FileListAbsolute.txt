@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\bin\Debug\netcoreapp2.0\CodingTracker.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\bin\Debug\netcoreapp2.0\CodingTracker.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\bin\Debug\netcoreapp2.0\CodingTracker.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\bin\Debug\netcoreapp2.0\CodingTracker.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\bin\Debug\netcoreapp2.0\CodingTracker.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\obj\Debug\netcoreapp2.0\CodingTracker.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\obj\Debug\netcoreapp2.0\CodingTracker.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\obj\Debug\netcoreapp2.0\CodingTracker.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\obj\Debug\netcoreapp2.0\CodingTracker.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\obj\Debug\netcoreapp2.0\CodingTracker.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\CodingTracker\obj\Debug\netcoreapp2.0\CodingTracker.pdb

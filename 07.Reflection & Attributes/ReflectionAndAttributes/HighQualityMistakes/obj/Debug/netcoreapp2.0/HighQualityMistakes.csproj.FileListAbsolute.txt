@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp2.0\HighQualityMistakes.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp2.0\HighQualityMistakes.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp2.0\HighQualityMistakes.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp2.0\HighQualityMistakes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\bin\Debug\netcoreapp2.0\HighQualityMistakes.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp2.0\HighQualityMistakes.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp2.0\HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp2.0\HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp2.0\HighQualityMistakes.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp2.0\HighQualityMistakes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\HighQualityMistakes\obj\Debug\netcoreapp2.0\HighQualityMistakes.pdb

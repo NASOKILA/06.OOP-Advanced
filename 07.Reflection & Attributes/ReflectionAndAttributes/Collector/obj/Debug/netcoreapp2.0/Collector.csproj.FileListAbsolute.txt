@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\bin\Debug\netcoreapp2.0\Collector.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\bin\Debug\netcoreapp2.0\Collector.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\bin\Debug\netcoreapp2.0\Collector.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\bin\Debug\netcoreapp2.0\Collector.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\bin\Debug\netcoreapp2.0\Collector.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\obj\Debug\netcoreapp2.0\Collector.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\obj\Debug\netcoreapp2.0\Collector.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\obj\Debug\netcoreapp2.0\Collector.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\obj\Debug\netcoreapp2.0\Collector.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\obj\Debug\netcoreapp2.0\Collector.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\Collector\obj\Debug\netcoreapp2.0\Collector.pdb

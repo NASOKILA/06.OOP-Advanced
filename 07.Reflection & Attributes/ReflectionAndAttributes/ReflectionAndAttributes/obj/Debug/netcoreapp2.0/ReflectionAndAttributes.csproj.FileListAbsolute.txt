@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\06.Iterators & Comparators Exce\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.0\ReflectionAndAttributes.pdb
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.deps.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.runtimeconfig.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.dll
+C:\Users\user\Desktop\SoftUni\6.C# Fundamentals\OOP Advanced\07.Reflection & Attributes\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.0\ReflectionAndAttributes.pdb
