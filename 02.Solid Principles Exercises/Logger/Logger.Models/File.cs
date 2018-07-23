@@ -1,6 +1,5 @@
 ﻿namespace Logger.Models
 {
-
     using Contracts;
     using System;
 

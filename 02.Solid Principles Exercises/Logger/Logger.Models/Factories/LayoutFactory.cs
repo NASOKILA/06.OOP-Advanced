@@ -6,11 +6,8 @@
     public class LayoutFactory
     {
         public LayoutFactory()
-        {
-
-        }
-
-        //vrushta suzdaden ot nas layout
+        {}
+		
         public ILayout CreateLayout(string layoutType)
         {   
             ILayout layout = null;
@@ -31,6 +28,5 @@
 
             return layout;
         }
-
     }
 }

@@ -5,12 +5,10 @@
     
     public class ConsoleAppender : IAppender
     {
-
         public ConsoleAppender(ILayout layout, ErrorLevel level)
         {
             this.Layout = layout;
             this.Level = level;
-
             this.MessagesAppendedCount = 0;
         }
 
@@ -20,17 +18,12 @@
 
         public ErrorLevel Level { get; }
 
-        //v tozi metod pishem na konzolata
         public void Append(IError error)
         {
-            //imame metod ot Layouta koito priema greshka i ni q formatira kum string.
             string formattedError = this.Layout.FormatError(error);
-            Console.WriteLine(formattedError); //izpisvame na konzolata
             this.MessagesAppendedCount++;
         }
 
-
-        //shte overridnem toString()
         public override string ToString()
         {
             string appenderType = this.GetType().Name;
@@ -45,6 +38,5 @@
 
             return result;
         }
-
     }
 }

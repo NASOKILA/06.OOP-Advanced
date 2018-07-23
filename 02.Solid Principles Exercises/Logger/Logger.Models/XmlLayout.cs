@@ -6,7 +6,6 @@
     
     public class XmlLayout : ILayout
     {
-
         const string DateFormat = "HH:mm:ss dd-MMM-yyyy";
 
         private string layout =
@@ -16,19 +15,13 @@
                 "\t<message>{2}</message>" + Environment.NewLine +
             "</log>";
 
-        //vzimme greshkata
         public string FormatError(IError error)
         {
-            //toStringvame datata
             string dateString = error.DateTime.ToString(DateFormat, CultureInfo.InvariantCulture);
                 
-            //poulvame kakto v dadeniq format opisan gore kato podaveme date, level i message
             string formattedError = string.Format(this.layout, dateString, error.Level.ToString(), error.Message);
             
             return formattedError;
         }
     }
 }
-
-
-
