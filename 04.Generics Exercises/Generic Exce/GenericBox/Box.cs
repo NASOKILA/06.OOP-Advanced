@@ -5,7 +5,6 @@ using System.Text;
 
 public class Box<T> 
     where T : IComparable<T>
-
 {
     public Box(T value)
     {
@@ -18,7 +17,6 @@ public class Box<T>
     {
         return $"{this.value.GetType().FullName}: {this.value}";
     }
-
 
     public static int Compare(List<Box<T>> listOfBoxes, Box<T> comparableBox)
     {
@@ -33,6 +31,4 @@ public class Box<T>
 
         return count;
     }
-
 }
-

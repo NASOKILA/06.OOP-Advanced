@@ -18,6 +18,4 @@ public class Tuple<T, U>
     {
         return $"{this.item1} -> {this.item2}";
     }
-
 }
-

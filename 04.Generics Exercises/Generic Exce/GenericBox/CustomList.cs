@@ -8,7 +8,6 @@ using System.Text;
 public class CustomList<T> : IEnumerable<T>
     where T : IComparable<T>
 {
-
     public CustomList()
     {
         this.Items = new List<T>();
@@ -78,7 +77,6 @@ public class CustomList<T> : IEnumerable<T>
         }
     }
     
-    //VAJNO !!!!! To se useshte che imame itemi i ni go implementira s tqh
     public IEnumerator<T> GetEnumerator()
     {
         return ((IEnumerable<T>)Items).GetEnumerator();

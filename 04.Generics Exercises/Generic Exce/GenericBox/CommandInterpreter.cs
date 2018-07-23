@@ -6,11 +6,8 @@ using System.Text;
 
 public class CommandInterpreter
 {
-
     public void Run(CustomList<string> list)
-    {
-        
-
+    {    
         string input;
         while ((input = Console.ReadLine()) != "END")
         {
@@ -58,9 +55,6 @@ public class CommandInterpreter
                 default:
                     throw new InvalidOperationException("Non existing command!");
             }
-
         }
     }
-
 }
-

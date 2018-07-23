@@ -11,14 +11,10 @@ public class Threeuple<T, U, H> : Tuple<T, U>
         this.item3 = item3;
     }
 
-
     private H item3 { get; set; }
 
     public override string Print()
     {
         return $"{base.item1} -> {base.item2} -> {this.item3}";
     }
-
-
 }
-

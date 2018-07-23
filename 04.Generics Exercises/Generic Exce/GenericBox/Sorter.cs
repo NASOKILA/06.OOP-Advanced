@@ -9,6 +9,4 @@ public class Sorter : CustomList<string>
     {
         list.Sort();
     }
-
 }
-
