@@ -8,10 +8,6 @@
 	internal class MenuController : IMainController
 	{
         
-        //Tova e nashiq osnoven kontroller
-        //podavame mu vsichko do sega
-
-
         private IServiceProvider serviceProvider;
 		private IForumViewEngine viewEngine;
 		private ISession session;
@@ -27,16 +23,13 @@
             this.session = session;
             this.commandFactory = commandFactory;
 
-            //inicializirame sessiqta
             this.InitializeSession();
 		}
 
 		private string Username { get; set; }
-        
-        //sega current menu idva ot sessiqta     
+           
 		private IMenu CurrentMenu => this.session.CurrentMenu;
 
-		
 		private void InitializeSession()
 		{
 			this.session.PushView(new MainMenu(this.session,

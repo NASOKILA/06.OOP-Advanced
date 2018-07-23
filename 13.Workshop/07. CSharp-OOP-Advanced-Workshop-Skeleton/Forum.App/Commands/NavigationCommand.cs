@@ -7,8 +7,6 @@
 
     public class NavigationCommand : ICommand
     {
-
-        //trqbva ni menuFactory koeto idva ot serviceProvidera
         private IMenuFactory menuFactory;
 
         protected NavigationCommand(IMenuFactory menuFactory)
@@ -18,15 +16,13 @@
 
         public IMenu Execute(params string[] args)
         {
-            //mahame 'Command' ot imeto
-
             string commandName = this.GetType().Name;
+			
             string menuName = commandName.Substring(0, commandName.Length - "Command".Length);
 
             IMenu menu = this.menuFactory.CreateMenu(menuName);
 
             return menu;
         }
-
     }
 }

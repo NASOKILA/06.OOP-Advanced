@@ -9,7 +9,6 @@
 		private ITextAreaFactory textAreaFactory;
 		private IForumReader reader;
         private ICommandFactory commandFactory;
-
 		private bool error;
         private string errorMessage = "";
         
@@ -23,7 +22,6 @@
             this.InitializeTextArea();
             this.Open();
         }
-
 
 		private string TitleInput => this.Buttons[0].Text.TrimStart();
 
@@ -102,14 +100,12 @@
             }
             else
             {
-
                 try
                 {
                     string commandName = string.Join("", this.CurrentOption.Text.Split());
 
                     ICommand command = this.commandFactory.CreateCommand(commandName);
 
-                    //podavame na post komandata
                     return command.Execute(this.TitleInput, this.CategoryInput, this.TextArea.Text);
                 }
                 catch (System.Exception e)
@@ -120,10 +116,7 @@
 
                     return this;
                 }
-
-
             }
         }
-
     }
 }

@@ -19,8 +19,6 @@
         private ICategoryInfoViewModel[] categories;
 		private int currentPage;
 
-        //TODO: Inject Dependencies
-
         public CategoriesMenu(ILabelFactory labelFactory, IPostService postService, ICommandFactory commandFactory)
         {
             this.labelFactory = labelFactory;
@@ -29,8 +27,6 @@
 
             this.Open();
         }
-
-
 
 		private int LastPage => this.categories.Length / 11;
 
@@ -119,38 +115,27 @@
 		{
             ICommand command = null;
 
-            //vzimame segashniq index koeto e i IDto
             int actualIndex = this.currentPage * pageSize + this.currentIndex -1;
             string idString = null;
 
             if (this.currentIndex > 0 && this.currentIndex <= 10)
             {
-                //ako indexa e mejdu 0 i 10 suzdavame takava komanda "ViewCategoryMenu"
                 command = this.commandFactory.CreateCommand("ViewCategoryMenu");
                 idString = this.categories[actualIndex].Id.ToString();  
-
             }
             else
             {
-                //ako e nad 10
-                //suzdavame komanda spored tova na koeto sme kliknali
                 string commandName = string.Join("", this.CurrentOption.Text.Split());
                 command = this.commandFactory.CreateCommand(commandName);
             }
-
-            //vzimame idto na kategoriqta 
-            
 
             return command.Execute(idString);
         }
 
 		public void ChangePage(bool forward = true)
 		{
-            //ako e true e 1 ako ne e -1
             this.currentPage += forward ? 1 : -1;
             this.currentIndex = 0;
-
-            //refreshvame meniuto
             this.Open();    
         }
 	}

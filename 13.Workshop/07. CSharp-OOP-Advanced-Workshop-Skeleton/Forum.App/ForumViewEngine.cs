@@ -112,7 +112,6 @@
 		{
 			SetCursorPosition(label.Position.Left, label.Position.Top);
 
-			//Highlight Option
 			if (highlighted)
 			{
 				Console.BackgroundColor = this.HighlightColor;
@@ -120,8 +119,6 @@
 
 			Console.Write(label.Text);
 
-			//Reset background color to prevent using 
-			//the wrong background color for other actions
 			Console.BackgroundColor = this.BackgroundColor;
 		}
 

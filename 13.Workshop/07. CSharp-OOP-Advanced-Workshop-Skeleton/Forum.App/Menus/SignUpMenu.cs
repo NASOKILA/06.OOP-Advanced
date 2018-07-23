@@ -7,14 +7,12 @@
     {
 		private const string DETAILS_ERROR = "Invalid Username or Password!";
 		private const string USERNAME_TAKEN_ERROR = "Username already in use!";
-
 		private bool error;
-
         private ILabelFactory labelFactory;
         private ICommandFactory commandFactory;
         private ISession session;
         private IUserService userService;
-        private IForumReader forumReader;  // prosto chete ot konzolata
+        private IForumReader forumReader;  
 
         public SignUpMenu(ILabelFactory labelFactory,
             ICommandFactory commandFactory,
@@ -99,14 +97,12 @@
             }
             else
             {
-
                 try
                 {
                     string commandName = string.Join("", this.CurrentOption.Text.Split());
 
                     ICommand command = this.commandFactory.CreateCommand(commandName);
 
-                    //podavame na sign up komandata username i parola
                     return command.Execute(this.UsernameInput, this.PasswordInput);
                 }
                 catch (System.Exception e) 
@@ -117,11 +113,7 @@
 
                     return this;
                 }
-
-
             }
         }
-
-
 	}
 }

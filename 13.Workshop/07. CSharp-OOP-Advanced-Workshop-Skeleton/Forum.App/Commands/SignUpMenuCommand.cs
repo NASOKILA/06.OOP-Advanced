@@ -9,7 +9,6 @@
     {
         public SignUpMenuCommand(IMenuFactory menuFactory) 
             : base(menuFactory)
-        {
-        }
+        {}
     }
 }

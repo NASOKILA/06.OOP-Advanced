@@ -5,7 +5,6 @@
 
     public class LogInMenu : Menu
     {
-
         private string errorMessage = "";
 		private bool error;
 
@@ -30,9 +29,6 @@
             this.Open();
         }
 
-
-		//TODO: Inject Dependencies
-		
 		private string UsernameInput => this.Buttons[0].Text.TrimStart();
 
 		private string PasswordInput => this.Buttons[1].Text.TrimStart();
@@ -83,8 +79,6 @@
             }
         }
 
-
-
         public override IMenu ExecuteCommand()
         {
             if (this.CurrentOption.IsField)
@@ -99,14 +93,12 @@
             }
             else
             {
-
                 try
                 {
                     string commandName = string.Join("", this.CurrentOption.Text.Split());
 
                     ICommand command = this.commandFactory.CreateCommand(commandName);
 
-                    //podavame na sign up komandata username i parola
                     return command.Execute(this.UsernameInput, this.PasswordInput);
                 }
                 catch(System.Exception e)
@@ -117,12 +109,7 @@
 
                     return this;
                 }
-
-
             }
         }
-
-
-
     }
 }

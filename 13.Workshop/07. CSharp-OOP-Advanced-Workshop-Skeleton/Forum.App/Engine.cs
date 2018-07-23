@@ -1,12 +1,10 @@
 ﻿namespace Forum.App
 {
 	using System;
-
 	using Contracts;
 
     public class Engine
     {
-            
         private IMainController menu;
 
         public Engine(IMainController menuController)

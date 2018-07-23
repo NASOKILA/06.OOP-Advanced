@@ -5,8 +5,7 @@
     public class Category
     {
 	    public Category()
-	    {
-	    }
+	    {}
         
 	    public Category(string name)
 	    {
@@ -25,6 +24,5 @@
 		public string Name { get; set; }
 
         public ICollection<int> Posts { get; set; } = new List<int>();
-
     }
 }

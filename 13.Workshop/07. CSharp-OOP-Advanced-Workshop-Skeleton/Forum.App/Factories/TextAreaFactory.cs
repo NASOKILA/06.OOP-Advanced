@@ -1,6 +1,5 @@
 ﻿namespace Forum.App.Factories
 {
-	
 	using Contracts;
     using Models;
 

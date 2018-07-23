@@ -3,8 +3,7 @@
 	public class Reply
     {
 	    public Reply()
-	    {
-	    }
+	    {}
 
 	    public Reply(string content)
 	    {

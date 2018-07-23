@@ -20,17 +20,12 @@
 		private int currentPage;
 		private IPostInfoViewModel[] posts;
 
-        //TODO: Inject Dependencies
-
         public ViewCategoryMenu(ILabelFactory labelFactory, IPostService postService, ICommandFactory commandFactory)
         {
             this.labelFactory = labelFactory;
             this.postService = postService;
             this.commandFactory = commandFactory;
-
-            //LoadPosts();
         }
-
 
 		private int LastPage => this.posts.Length / 11;
 
@@ -45,9 +40,9 @@
 			string[] labelContent = new string[] { categoryName, "Name", "Replies" };
 			Position[] labelPositions = new Position[]
 			{
-				new Position(consoleCenter.Left - 18, consoleCenter.Top - 12), // Category name
-                new Position(consoleCenter.Left - 18, consoleCenter.Top - 10), // Name
-                new Position(consoleCenter.Left + 12, consoleCenter.Top - 10), // Replies
+				new Position(consoleCenter.Left - 18, consoleCenter.Top - 12),  
+                new Position(consoleCenter.Left - 18, consoleCenter.Top - 10), 
+                new Position(consoleCenter.Left + 12, consoleCenter.Top - 10),
             };
 
 			this.Labels = new ILabel[labelContent.Length];
@@ -115,7 +110,6 @@
             {
                 command = this.commandFactory.CreateCommand("ViewPostMenu");
                 idString = this.posts[actualIndex].Id.ToString();
-
             }
             else
             {
@@ -123,11 +117,8 @@
                 command = this.commandFactory.CreateCommand(commandName);
             }
 
-
-
             return command.Execute(idString);
         }
-
 
         public void ChangePage(bool forward = true)
 		{
@@ -143,8 +134,6 @@
             this.Open();
         }
 
-
-
         public override void Open()
         {
             this.LoadPosts();
@@ -154,7 +143,6 @@
 
         private void LoadPosts()
         {
-            //zarejdame postovete, vzimame gi ot postServica i gi podavame na this.posts
             this.posts = this.postService.GetCategoryPostsInfo(this.categoryId).ToArray();
         }
     }

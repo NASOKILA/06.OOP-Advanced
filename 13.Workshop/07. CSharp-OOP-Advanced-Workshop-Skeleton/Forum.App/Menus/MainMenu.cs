@@ -7,8 +7,6 @@
     {
 		private ISession session;
 		private ILabelFactory labelFactory;
-
-        //trqbva mu ICommandFactory za da suzdava komandi
         private ICommandFactory commandFactory;
 
 		public MainMenu(ISession session, ILabelFactory labelFactory, ICommandFactory commandFactory)

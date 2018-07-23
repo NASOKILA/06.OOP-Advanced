@@ -12,18 +12,13 @@
         {
             this.Title = title;
             this.Author = author;
-            this.Replies = replies.ToArray(); //kato mu podadem IEnumerable moje damu podadem kakvato  ida e kolekciq
+            this.Replies = replies.ToArray();
         }
 
-        //tova se pokazva kogato otvorim daden model
-        
         public string Title { get; }
 
         public string Author { get; }
 
-        //public string[] Content => throw new System.NotImplementedException();
-
-        public IReplyViewModel[] Replies { get; }
-        
+        public IReplyViewModel[] Replies { get; }    
     }
 }

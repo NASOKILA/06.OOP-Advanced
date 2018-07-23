@@ -10,23 +10,15 @@
 
     public class PostService : IPostService
     {
-
-        //pak si vzimame forumData
         private ForumData forumdata;
-
-        //POST SERVISA SHTE SE NUJDAE OT USER SERVISA ZATOVA TRQBVA DA SI GO IDJEMKTNEM I NEGO PREZ ctor
+		
         private IUserService userService;
         
-        //setvame gi prez konstruktura
         public PostService(ForumData forumdata, IUserService userService)
         {
             this.forumdata = forumdata;
             this.userService = userService;
         }
-
-
-
-        //kato implementirame interfeisa pouchavame metodi koito za sega nqma da gi polzvame
         
         public int AddPost(int authorId, string postTitle, string postCategory, string postContent)
         {
@@ -37,13 +29,11 @@
                 throw new ArgumentException($"User with id {authorId} not found!");
             }
 
-
             int postId = this.forumdata.Posts.LastOrDefault()?.Id + 1 ?? 1;
 
             Category category = this.EnsureCategory(postCategory);
 
             Post post = new Post(postId, postTitle, postContent, category.Id, authorId, new List<int>());
-
 
             this.forumdata.Posts.Add(post);
             author.Posts.Add(postId);
@@ -52,7 +42,6 @@
             forumdata.SaveChanges();
 
             return postId;
-
         }
 
         private Category EnsureCategory(string postCategory)
@@ -69,7 +58,6 @@
             return category;
         }
 
-
         public void AddReplyToPost(int postId, string replyContents, int userId)
         {
             Post post = this.forumdata.Posts.Find(p => p.Id == postId);
@@ -85,7 +73,6 @@
 
         public IEnumerable<ICategoryInfoViewModel> GetAllCategories()
         {
-            //vzimame vsichi ategorii i za vsqk suzdavame nov infoViewModel i prenasqme informaciqta
             IEnumerable<ICategoryInfoViewModel> categories = this.forumdata
                 .Categories
                 .Select(c => new CategoryInfoViewModel(c.Id, c.Name, c.Posts.Count));
@@ -108,7 +95,6 @@
 
         public IEnumerable<IPostInfoViewModel> GetCategoryPostsInfo(int categoryId)
         {
-            //vzimame vsichki postove ot tazi kategoria i gi preobrazuvame na PostInfoViewModel
             IEnumerable<IPostInfoViewModel> posts =
                 this.forumdata.Posts.Where(p => p.CategoryId == categoryId)
                 .Select(p => new PostInfoViewModel(p.Id, p.Title, p.Replies.Count));
@@ -116,11 +102,8 @@
             return posts;
         }
 
-
-
         public IPostViewModel GetPostViewModel(int postId)
         {
-            //get post from database
             Post post = this.forumdata.Posts.FirstOrDefault(p => p.Id == postId);
 
             if (post == null)
@@ -130,18 +113,14 @@
 
             string author = this.userService.GetUserName(post.AuthorId);
 
-
-            //suzdavame si postViewModela kato polzvame spisuka
             IPostViewModel postViewModel =
                 new PostViewModel(post.Title, author, post.Content, this.getPostReplies(postId));
-            
             
             return postViewModel;
         }
 
         private IEnumerable<IReplyViewModel> getPostReplies(int postId)
         {
-
             IEnumerable <IReplyViewModel>  replies = this.forumdata.Replies.Where(r => r.PostId == postId)
                 .Select(r =>  new ReplyViewModel(this.userService.GetUserName(r.AuthorId), r.Content));
 

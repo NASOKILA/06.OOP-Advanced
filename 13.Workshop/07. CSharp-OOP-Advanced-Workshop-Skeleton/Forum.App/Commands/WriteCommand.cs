@@ -2,10 +2,8 @@
 {
     using Contracts;
     
-
     public class WriteCommand : ICommand
     {
-
         private ISession session;
 
         public WriteCommand(ISession session)
@@ -17,7 +15,6 @@
         {
             IMenu curentMenu = this.session.CurrentMenu;
 
-            //proverqvame dali ne e ITExtAreaMenu
             if (curentMenu is ITextAreaMenu textAreaMenu)
             {
                 textAreaMenu.TextArea.Write();

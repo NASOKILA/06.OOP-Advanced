@@ -15,7 +15,6 @@
             this.menuFactory = menuFactory;
         }
 
-              
         public IMenu Execute(params string[] args)
         {
             string title = args[0];
@@ -26,7 +25,6 @@
             bool validCategory = !string.IsNullOrWhiteSpace(category);
             bool validContent = !string.IsNullOrWhiteSpace(content);
 
-
             if (!validTitle || !validCategory || !validContent)
             {
                 throw new System.ArgumentException("All fields must me filled!");
@@ -34,7 +32,6 @@
             
             int postId = this.postService
                 .AddPost(this.session.UserId, title, category, content);
-
 
             IMenu menu = this.menuFactory.CreateMenu("ViewPostMenu");
 

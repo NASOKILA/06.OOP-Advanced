@@ -6,11 +6,9 @@
 
     public class ViewCategoryMenuCommand : ICommand
     {
-
-        //postservice otgovarq za postovete i tehnite kategorii
         private IPostService postService;
+		
         private IMenuFactory menuFactory;
-
 
         public ViewCategoryMenuCommand(IMenuFactory menuFactory, IPostService postService)
         {

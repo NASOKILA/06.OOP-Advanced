@@ -1,7 +1,6 @@
 ﻿namespace Forum.App.Menus
 {
     using System.Collections.Generic;
-
     using Models;
     using Contracts;
     using System;
@@ -22,10 +21,8 @@
         private bool error;
 		private string errorMessage = "";
         private int postId;
-
 		private IPostViewModel post;
-        
-
+       
         public AddReplyMenu(ILabelFactory labelFactory, 
             ITextAreaFactory textAreaFactory,
             IForumReader reader,
@@ -62,7 +59,6 @@
 
 			int lineCount = this.post.Content.Length;
 
-			// Add post contents
 			for (int i = 0; i < lineCount; i++)
 			{
 				Position position = new Position(leftPosition, consoleCenter.Top - (topOffset - i));
@@ -97,8 +93,6 @@
 		public void SetId(int id)
 		{
             this.postId = id;
-
-            //zarejdame si posta
             this.LoadPost();
 		}
 
@@ -109,7 +103,6 @@
             this.InitializeTextArea();
             this.Open();
         }
-
 
         public override IMenu ExecuteCommand()
         {
@@ -125,16 +118,13 @@
             }
             else
             {
-
                 try
                 {
                     string commandName = string.Join("", this.CurrentOption.Text.Split());
 
                     ICommand command = this.commandFactory.CreateCommand(commandName);
 
-                    //podavame na post komandata
                     return command.Execute(this.TextArea.Text, this.postId.ToString());
-
                 }
                 catch (Exception e)
                 {
@@ -144,12 +134,7 @@
 
                     return this;
                 }
-
-
             }
         }
-
-
-
     }
 }

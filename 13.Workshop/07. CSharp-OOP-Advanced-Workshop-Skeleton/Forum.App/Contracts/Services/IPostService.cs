@@ -11,7 +11,9 @@
 		string GetCategoryName(int categoryId);
 
 		IPostViewModel GetPostViewModel(int postId);
+		
 		int AddPost(int userId, string postTitle, string postCategory, string postContent);
+		
 		void AddReplyToPost(int postId, string replyContents, int userId);
 	}
 }

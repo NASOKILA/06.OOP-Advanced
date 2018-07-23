@@ -46,7 +46,6 @@
 
 			InitializeButtons(consoleCenter);
 
-			// Add replies
 			int currentRow = consoleCenter.Top - (consoleCenter.Top - topOffset - 3 - this.post.Content.Length) + 1;
 
 			Position repliesStartPosition = new Position(consoleCenter.Left - leftOffset, currentRow++);
@@ -90,7 +89,6 @@
 
 			int lineCount = this.post.Content.Length;
 
-			// Add post contents
 			for (int i = 0; i < lineCount; i++)
 			{
 				Position position = new Position(leftPosition, consoleCenter.Top - (topOffset - i));
@@ -120,7 +118,6 @@
 
 		private void LoadPost()
 		{
-            //zarejdame posta s tekushtoto postId
             this.post = this.postService.GetPostViewModel(this.postId);
         }
 
@@ -130,10 +127,8 @@
             ICommand command = this.commandFactory.CreateCommand(commandName);
             IMenu menu = command.Execute(this.postId.ToString());
 
-            //risetvame bufera
             this.viewEngine.ResetBuffer();
 
-            //vrushtame si meniuto na posta za da mojem da go vidim
             return menu;
 		}
 

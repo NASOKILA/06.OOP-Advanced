@@ -7,7 +7,6 @@
 
     public class PreviousPageCommand : ICommand
     {
-
         private ISession session;
         
         public PreviousPageCommand(ISession session)
@@ -19,10 +18,9 @@
         {
             IMenu currentMenu = this.session.CurrentMenu;
 
-            //proverqvame dali tiout mu e IPaginatedenu da go kastne v pomenlivata paginatedMenu
             if (currentMenu is IPaginatedMenu paginatedMenu)
             {
-                paginatedMenu.ChangePage(false);  //vurvim edna stranica nazad
+                paginatedMenu.ChangePage(false); 
             }
 
             return currentMenu;

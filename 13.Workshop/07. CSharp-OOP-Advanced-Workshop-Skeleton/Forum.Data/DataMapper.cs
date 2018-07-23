@@ -228,6 +228,5 @@
 		{
 			File.WriteAllLines(path, lines);
 		}
-
 	}
 }

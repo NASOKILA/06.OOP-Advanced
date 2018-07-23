@@ -4,7 +4,6 @@
     
     public class CategoryInfoViewModel : ICategoryInfoViewModel
     {
-
         public CategoryInfoViewModel(int id, string name, int postCount)
         {
             this.Id = id;

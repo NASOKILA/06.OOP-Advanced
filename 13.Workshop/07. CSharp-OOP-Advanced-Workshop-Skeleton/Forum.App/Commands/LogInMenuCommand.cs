@@ -7,6 +7,5 @@
         public LogInMenuCommand(IMenuFactory menuFactory) 
             : base(menuFactory)
         {}
-
     }
 }

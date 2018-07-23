@@ -9,6 +9,7 @@
     {
 
         private ISession session;
+		
         private IMenuFactory menuFactory;
 
         public ViewPostMenuCommand(ISession session, IMenuFactory menuFactory)
@@ -19,8 +20,8 @@
 
         public IMenu Execute(params string[] args)
         {
-
             string commandName = this.GetType().Name;
+			
             string menuName = commandName.Substring(0, commandName.Length -
                 "Command".Length);
 
