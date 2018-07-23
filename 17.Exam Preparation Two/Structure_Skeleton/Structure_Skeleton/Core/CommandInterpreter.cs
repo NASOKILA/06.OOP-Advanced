@@ -39,42 +39,30 @@ public class CommandInterpreter : ICommandInterpreter
     {
         var commandName = args[0];
         
-
-        //vzimame si klasa s tova ime
         Type commandType = Assembly.GetCallingAssembly()
             .GetTypes()
             .FirstOrDefault(t => t.Name == commandName + "Command");
 
-        //proverqvame dali go ima
         if (commandType == null)
         {
             throw new ArgumentException(string.Format(Constants.CommandNotFound, commandName));
         }
         
-        
-        //proverqvame dali ne ICommand
         if (!typeof(ICommand).IsAssignableFrom(commandType))
         {
             throw new InvalidOperationException(string.Format(Constants.InvalidCommand, commandName));
         }
 
-        
-        //vzimame konstruktura
         ConstructorInfo ctor = commandType.GetConstructors().First();
 
-        //vzimame parametrite
         ParameterInfo[] paramsInfo = ctor.GetParameters();
 
-        //pravim obekt s parametrite koito da mu podadem na Activatora za da napravi instanciq
         object[] parameters = new object[paramsInfo.Length];
 
-        //pulnim masiva s parametrite
         for (int i = 0; i < paramsInfo.Length; i++)
         {
-            //vzimame tipa na parametrite
             Type paramType = paramsInfo[i].ParameterType;
 
-            //proverqbame  tiput dali e IList<string>
             if (paramType == typeof(IList<string>))
             {
                 parameters[i] = args.Skip(1).ToList();
@@ -86,14 +74,10 @@ public class CommandInterpreter : ICommandInterpreter
 
                 parameters[i] = paramInfo.GetValue(this);
             }
-            
         }
 
-        //pravim si komandata s Activatora kato mu podavame parametrite
         ICommand currentCommand = (ICommand)Activator.CreateInstance(commandType, parameters);
 
         return currentCommand;
     }
 }
-
-

@@ -4,7 +4,6 @@ using System.Text;
 
 public class DraftManager
 {
-        
     private string mode;
     private double totalStoredEnergy;
     private double totalMinedOre;
@@ -20,8 +19,6 @@ public class DraftManager
         this.totalMinedOre = 0;
         this.totalStoredEnergy = 0;
         this.energyRepository = new EnergyRepository();
-       // this.harvesterController = new HarvesterController();
-       // this.providerController = new ProviderController(energyRepository);
         this.harvesterFactory = new HarvesterFactory();
         this.providerFactory = new ProviderFactory();
     }
@@ -41,7 +38,6 @@ public class DraftManager
         try
         {
             Harvester harvester = (Harvester)this.harvesterFactory.GenerateHarvester(arguments);
-            //this..Add(id, harvester);
         }
         catch (ArgumentException e)
         {
@@ -76,7 +72,7 @@ public class DraftManager
         this.mode = mode;
         return string.Format(OutputMessages.ModeChanged, mode);
     }
-    /*
+   
     public string Inspect(List<string> arguments)
     {
         var id = arguments[0];
@@ -98,8 +94,7 @@ public class DraftManager
     }
     */
     public string Repair(List<string> args)
-    {
-        
+    {    
         return "";
     }
 
@@ -112,5 +107,4 @@ public class DraftManager
 
         return sb.ToString();
     }
-
 }

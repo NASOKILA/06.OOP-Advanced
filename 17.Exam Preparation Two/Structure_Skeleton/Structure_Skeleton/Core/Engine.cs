@@ -4,7 +4,6 @@ using System.Linq;
 
 public class Engine
 {
-
     private ICommandInterpreter commandInterpreter;
     private IWriter writer;
     private IReader reader;
@@ -28,7 +27,6 @@ public class Engine
 
             if (data[0] == Commands.ShutDownCommand)
                 Environment.Exit(0);
-
         }
     }
 }

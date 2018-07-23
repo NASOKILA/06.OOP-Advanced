@@ -17,7 +17,6 @@ public class RegisterCommand : Command
 
     public override string Execute()
     {
-
         string command = "Register" + Arguments[0];
         string result = "";
         if (command == Commands.RegisterHarvesterCommand)
@@ -27,14 +26,10 @@ public class RegisterCommand : Command
         }
         else if (command == Commands.RegisterProviderCommand)
         {
-
             IList<string> tokens = Arguments.Skip(1).ToList();
             result = this.providerController.Register(tokens);
-
         }
 
         return result;
-    }
-    
+    }   
 }
-

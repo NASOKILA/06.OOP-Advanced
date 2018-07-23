@@ -2,13 +2,10 @@
 
 public class Program
 {
-
     public static void Main(string[] args)
     {
-
         var providers = new List<IProvider>();
         var harvesters = new List<IHarvester>();
-
         string mode = Modes.FullMode;
         
         IHarvesterFactory harvesterFactory = new HarvesterFactory();

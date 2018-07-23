@@ -27,7 +27,6 @@ public class HarvesterController : IHarvesterController
     public string ChangeMode(string mode)
     {
         IList<IHarvester> reminder = new List<IHarvester>();
-        //Ako edinharvester se schupi shte hvurli exeption sledovatelno shte go premahnem
 
         foreach (var har in this.harvesters)
         {
@@ -38,8 +37,7 @@ public class HarvesterController : IHarvesterController
             catch 
             {
                 reminder.Add(har);
-            }
-            
+            } 
         }
 
         foreach (var h in reminder)
@@ -51,7 +49,6 @@ public class HarvesterController : IHarvesterController
 
     public string Produce()
     {
-        //calculate needed energy
         double neededEnergy = 0;
         foreach (var harvester in this.harvesters)
         {
@@ -69,18 +66,15 @@ public class HarvesterController : IHarvesterController
             }
         }
 
-        //check if we can mine
         double minedOres = 0;
         if (this.energyRepository.TakeEnergy(neededEnergy))
         {
-            //mine
             foreach (var harvester in this.harvesters)
             {
                 minedOres += harvester.OreOutput;
             }
         }
 
-        //take the mode in mind
         if (this.mode == Modes.EnergyMode)
         {
             minedOres = minedOres * 20 / 100;
@@ -92,9 +86,7 @@ public class HarvesterController : IHarvesterController
 
         this.OreProduced += minedOres;
 
-        
         return string.Format(Constants.OreOutputToday, minedOres);
-        
     }
 
     public string Register(IList<string> args)
@@ -105,4 +97,3 @@ public class HarvesterController : IHarvesterController
             harvester.GetType().Name);
     }
 }
-

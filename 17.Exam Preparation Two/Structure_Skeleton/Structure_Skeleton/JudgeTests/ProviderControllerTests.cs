@@ -23,14 +23,11 @@ public class ProviderControllerTests
         this.providerController = new ProviderController(energyRepository, providers, providerFactory);
     }
 
-    //DAVA 20 tochki
     [Test]
     public void PassTest()
     {
         Assert.Pass();
     }
-
-
 
     [TestCase("Pressure", "40", "100")]
     [TestCase("Solar", "20", "1000")]
@@ -40,30 +37,21 @@ public class ProviderControllerTests
     [TestCase("Solar", "50", "-100")]
     public void RegisterMethod(string name, string id, string energyOutput)
     {
-
         IList<string> args = new List<string> { name, id, energyOutput };
-
-
         string result = providerController.Register(args);
-
         Assert.AreEqual(result, $"Successfully registered {name}Provider");
     }
 
     [Test]
     public void RegisterMethodThrowsError()
     {
-        //Before Each
         SetProviderController();
-
         Assert.Throws<ArgumentNullException>(() => { providerController.Register(new List<string> { "StandartGRESHNOIME", "10", "500" }); });
     }
 
     [Test]
     public void ProduceMethod()
-    {
-        //Before Each
-        //SetProviderController();  ZARADI ATRIBUTA [SetUp] SAMO SE IZVIKVA
-
+    {    
         providerController.Register(new List<string> { "Standart", "10", "500" });
         providerController.Register(new List<string> { "Solar", "10", "500" });
 
@@ -75,10 +63,7 @@ public class ProviderControllerTests
     [Test]
     public void ProduceMethodBreakProvider()
     {
-        //Before Each
-        //SetProviderController();  ZARADI ATRIBUTA [SetUp] SAMO SE IZVIKVA
-
-
+       
         providerController.Register(new List<string> { "Standart", "10", "500" });
         providerController.Register(new List<string> { "Pressure", "10", "500" });
         providerController.Register(new List<string> { "Solar", "10", "500" });
@@ -94,42 +79,28 @@ public class ProviderControllerTests
         providerController.Produce();
         providerController.Produce();
         providerController.Produce();
-
-        //Standart breaks here
         providerController.Produce();
-
+		
         Assert.AreEqual(providerController.Entities.Count, 2);
-
+		
         providerController.Produce();
         providerController.Produce();
-
-        //Pressure breaks here
         providerController.Produce();
-
 
         Assert.AreEqual(providerController.Entities.Count, 1);
 
         providerController.Produce();
         providerController.Produce();
-
-
-        //Solar breaks here
         providerController.Produce();
 
         Assert.AreEqual(providerController.Entities.Count, 0);
-
     }
 
     [Test]
     public void Entities()
     {
-
-        //Before Each
-        //SetProviderController();  ZARADI ATRIBUTA [SetUp] SAMO SE IZVIKVA
-
         providerController.Register(new List<string> { "Standart", "10", "500" });
         providerController.Register(new List<string> { "Solar", "10", "500" });
-
         Assert.AreEqual(providerController.Entities.Count, 2);
     }
 
@@ -138,48 +109,31 @@ public class ProviderControllerTests
     [TestCase(-10)]
     public void RepairMethod(double val)
     {
-        //Before Each
-        //SetProviderController();  ZARADI ATRIBUTA [SetUp] SAMO SE IZVIKVA
-
         providerController.Register(new List<string> { "Standart", "10", "500" });
         providerController.Register(new List<string> { "Solar", "10", "500" });
-
         Assert.AreEqual(providerController.Repair(val), $"Providers are repaired by {val}");
     }
 
     [Test]
     public void TotalEnergyProduced()
     {
-        //Before Each
-        //SetProviderController();  ZARADI ATRIBUTA [SetUp] SAMO SE IZVIKVA
-
         providerController.Register(new List<string> { "Standart", "10", "500" });
         providerController.Register(new List<string> { "Solar", "10", "500" });
-
         providerController.Produce();
-
-
         Assert.AreEqual(providerController.TotalEnergyProduced, 1000);
     }
 
     [Test]
     public void ConstructorCheck()
     {
-        //Before Each
-        //SetProviderController();  ZARADI ATRIBUTA [SetUp] SAMO SE IZVIKVA
-
         Type type = typeof(ProviderController);
         ConstructorInfo ctor = type.GetConstructors().First();
         ParameterInfo[] @params = ctor.GetParameters();
 
-        //Proverqvame broqt im
         Assert.AreEqual(@params.Count(), 3);
 
-        //Proverqvame tipovete im
         Assert.AreEqual(@params[0].ParameterType.ToString(), "IEnergyRepository");
         Assert.AreEqual(@params[1].ParameterType.ToString(), "System.Collections.Generic.IList`1[IProvider]");
         Assert.AreEqual(@params[2].ParameterType.ToString(), "IProviderFactory");
-
     }
 }
-

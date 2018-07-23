@@ -20,7 +20,6 @@ public abstract class Provider : IProvider
 
     public void Broke()
     {
-        //namalqva durabilitito sus 100 i ako e pod 0 hvurlq exeption za schupen provider
         this.Durability -= Constants.DurabilityDecrese;
         if (Durability < 0)
             throw new ArgumentException(string.Format(Constants.BrokenEntity, this.GetType().Name, this.ID));
@@ -28,13 +27,11 @@ public abstract class Provider : IProvider
 
     public double Produce()
     {
-        //prosto vushta kolko EnergyOutput sme suzdali
         return this.EnergyOutput;
     }
 
     public void Repair(double val)
     {
-        // uvelichava durabilitito sus podadenata stoinost
         this.Durability += val;
     }
 

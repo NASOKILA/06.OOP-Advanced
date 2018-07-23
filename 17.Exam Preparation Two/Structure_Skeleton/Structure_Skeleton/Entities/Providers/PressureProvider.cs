@@ -8,6 +8,4 @@
         this.Durability += 300;
         this.EnergyOutput *= energyMultiplyer;
     }
-
 }
-

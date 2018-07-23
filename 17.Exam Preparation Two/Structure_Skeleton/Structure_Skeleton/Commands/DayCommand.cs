@@ -22,5 +22,3 @@ public class DayCommand : Command
         return providersResult + Environment.NewLine + harvestersResult;
     }
 }
-
-    

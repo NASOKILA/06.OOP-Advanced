@@ -4,9 +4,9 @@ using System.Text;
 public abstract class Harvester : IHarvester
 {
     private const int InitialDurability = 1000;
+	
     private const int DurabilityDecrese = 100;
  
-    
     protected Harvester(int id, double oreOutput, double energyRequirement)
     {
         this.ID = id;
@@ -25,7 +25,6 @@ public abstract class Harvester : IHarvester
 
     public void Broke()
     {
-        //namalqva durabiliti sus 100
         this.Durability -= Constants.DurabilityDecrese;
 
         if (Durability < 0)
@@ -36,7 +35,6 @@ public abstract class Harvester : IHarvester
 
     public double Produce()
     {
-        //prosto vushta kolko OreOutput sme suzdali
         return this.OreOutput;
     }
 
@@ -47,5 +45,4 @@ public abstract class Harvester : IHarvester
         sb.AppendLine(string.Format(Constants.AppendDurability, this.Durability));
         return sb.ToString().Trim();
     }
-
 }

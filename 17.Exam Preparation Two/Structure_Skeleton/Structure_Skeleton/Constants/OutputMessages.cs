@@ -19,7 +19,5 @@
     public const string TotalEnergyProduced = "Total Energy Produced: {0}";
 
     public const string TotalOreMined = "Total Mined Plumbus Ore: {0}";
-
-
 }
 

@@ -16,7 +16,6 @@ public class ShutdownCommand : Command
 
     public override string Execute()
     {
-
         var sb = new StringBuilder();
         sb.AppendLine(OutputMessages.ShutDown);
         sb.AppendLine(string.Format(OutputMessages.TotalEnergyProduced, this.providerController.TotalEnergyProduced));
@@ -25,4 +24,3 @@ public class ShutdownCommand : Command
         return sb.ToString();
     }
 }
-

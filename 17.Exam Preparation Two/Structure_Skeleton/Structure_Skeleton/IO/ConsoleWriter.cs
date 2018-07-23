@@ -6,4 +6,3 @@ public class ConsoleWriter : IWriter
         System.Console.WriteLine(message);
     }
 }
-

@@ -17,4 +17,3 @@ public class ModeCommand : Command
         return this.harvesterController.ChangeMode(mode);
     }
 }
-

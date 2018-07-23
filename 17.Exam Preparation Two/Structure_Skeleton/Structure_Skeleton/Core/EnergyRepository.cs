@@ -22,4 +22,3 @@ public class EnergyRepository : IEnergyRepository
         return true;
     }
 }
-

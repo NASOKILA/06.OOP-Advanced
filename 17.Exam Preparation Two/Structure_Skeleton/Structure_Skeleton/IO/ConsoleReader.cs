@@ -6,4 +6,3 @@ public class ConsoleReader : IReader
         return System.Console.ReadLine();
     }
 }
-

@@ -5,7 +5,6 @@ using System.Reflection;
 
 public class HarvesterFactory : IHarvesterFactory
 {
-
     public IHarvester GenerateHarvester(IList<string> args)
     {
         string type = args[0];
@@ -18,4 +17,3 @@ public class HarvesterFactory : IHarvesterFactory
         return harvester;
     }
 }
-

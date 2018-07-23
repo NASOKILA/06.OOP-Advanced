@@ -7,4 +7,3 @@ public class Modes
 
     public const string EnergyMode = "Energy";
 }
-

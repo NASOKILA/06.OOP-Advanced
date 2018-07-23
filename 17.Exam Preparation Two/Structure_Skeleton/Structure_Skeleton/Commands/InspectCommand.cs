@@ -40,4 +40,3 @@ public class InspectCommand : Command
         return sb.ToString().Trim();
     }
 }
-
