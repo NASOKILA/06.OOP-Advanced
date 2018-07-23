@@ -20,8 +20,3 @@ public class ConsoleWriter : IConsoleWriter
         Console.WriteLine(this.stringBuilder.ToString().Trim());
     }
 }
-
-
-
-
-

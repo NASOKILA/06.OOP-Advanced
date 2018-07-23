@@ -3,9 +3,7 @@ using System.Text;
 
 
 public class SpecialForce : Soldier
-
 {
-    //ZA DA SERNEM KAKVOTO I DA E PURVO GO IZVEJDAME V PRIVATE POLE
     private const double overallSkillMultiplier = 3.5;
     private const int regenerationParameter = 30;
     private readonly List<string> weaponsAllowed = new List<string>(){

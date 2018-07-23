@@ -7,4 +7,3 @@ public class ConsoleReader : IConsoleReader
         return Console.ReadLine();
     }
 }
-    

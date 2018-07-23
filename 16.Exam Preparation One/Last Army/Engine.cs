@@ -3,10 +3,7 @@ using System.Text;
 
 public class Engine
 {
-
     private const string poolbackCommand = "Enough! Pull back!";
-
-    //polzvame si reader i writer chrez klasovete ConsoleReader() i ConsoleWriter()
     private IConsoleReader reader;
     private IConsoleWriter writer;
 
@@ -16,15 +13,11 @@ public class Engine
         this.writer = new ConsoleWriter();
     }
 
-
     public void Run()
     {
-
         string input = reader.ReadLine();
         GameController gameController = new GameController(writer);
         
-
-
         while (!input.Equals(poolbackCommand))
         {
             try
@@ -43,7 +36,4 @@ public class Engine
         
         this.writer.WriteLineAll();
     }
-
-
 }
-

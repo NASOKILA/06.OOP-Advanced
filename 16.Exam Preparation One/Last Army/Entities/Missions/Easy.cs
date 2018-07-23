@@ -12,6 +12,5 @@ public class Easy : Mission
     public override double EnduranceRequired => enduranceRequired;
     public override string Name => name;
     public override double WearLevelDecrement => wearLevelDecrement;
-
 }
 

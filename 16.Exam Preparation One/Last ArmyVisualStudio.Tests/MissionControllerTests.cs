@@ -18,10 +18,7 @@ public class MissionControllerTests
             result = missionController.PerformMission(mission);
         }
 
-        //pone vednuj trqbva da ima fail
-
         Assert.IsTrue(result.Contains("declined"));
-
     }
 
     [Test]
@@ -38,9 +35,6 @@ public class MissionControllerTests
         {
             result = missionController.PerformMission(mission);
         }
-
-        //pone vednuj trqbva da ima fail
         Assert.IsTrue(result.Contains("completed"));
     }
 }
-

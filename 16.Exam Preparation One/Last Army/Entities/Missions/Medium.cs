@@ -13,4 +13,3 @@ public class Medium : Mission
     public override string Name => name;
     public override double WearLevelDecrement => wearLevelDecrement;
 }
-

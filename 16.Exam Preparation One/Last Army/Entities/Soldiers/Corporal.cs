@@ -23,4 +23,3 @@ public class Corporal : Soldier
 
     protected override List<string> WeaponsAllowed => weaponsAllowed;
 }
-

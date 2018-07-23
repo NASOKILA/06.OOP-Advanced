@@ -1,7 +1,6 @@
 ﻿
 public abstract class Mission : IMission
 {
-
     protected Mission(double ScoreToComplete)
     {
         this.ScoreToComplete = ScoreToComplete;
@@ -15,4 +14,3 @@ public abstract class Mission : IMission
 
     public abstract double WearLevelDecrement { get; }
 }
-

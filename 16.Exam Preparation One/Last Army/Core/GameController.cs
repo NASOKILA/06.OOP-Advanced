@@ -26,28 +26,22 @@ public class GameController
         this.writer = writer;
     }
     
-    //tuk izpulnqvame komandite
     public void GiveInputToGameController(string input)
     {
         var data = input.Split();
 
-        //ako komandata ni e soldier
         if (data[0].Equals("Soldier"))
         {
 
-            // i sled nego imame Regenerate znachi gi regenerirame vsichki voinici
             if (data[1].Equals("Regenerate"))
             {
                 army.RegenerateTeam(data[2]);
             }
             else
             {
-                //ako NE E REGENERATA ZNACHISUZDVAME NOV VOINIK
-
                 var soldier = soldierFactory.CreateSoldier(
                     data[1], data[2], int.Parse(data[3]), double.Parse(data[4]), double.Parse(data[5]));
-                //type, name, age, experience, endurance
-
+              
                 if (wearHouse.TryEquipSoldier(soldier))
                     army.AddSoldier(soldier);
                 else
@@ -77,18 +71,14 @@ public class GameController
 
     public void RequestResult()
     {
-        //Sega vsichki OnHold Missiq stavat na Fail Misii
         missionController.FailMissionsOnHold();
         writer.AppendLine(OutputMessages.Result);
 
-        //zakavhame uspeshnite misii
         writer.AppendLine(string.Format(OutputMessages.SuccessfulMissions, missionController.SuccessMissionCounter));
 
-        //zakavhame NE uspeshnite misii
         writer.AppendLine(string.Format(OutputMessages.FailedMissions, missionController.FailedMissionCounter));
         writer.AppendLine(OutputMessages.Soldiers);
 
-        //zakachame i voinicite podredeni po Overall Skill
         foreach (var soldier in this.army.Soldiers.OrderByDescending(s => s.OverallSkill))
             writer.AppendLine(soldier.ToString());
     }    

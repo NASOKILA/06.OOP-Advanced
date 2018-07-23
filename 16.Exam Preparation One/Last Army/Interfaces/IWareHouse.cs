@@ -6,4 +6,3 @@
 
     bool TryEquipSoldier(ISoldier soldier);
 }
-

@@ -13,8 +13,7 @@ namespace Last_Army
 
         protected Weapons(string name, double weight)
             : base(name, weight)
-        {
-        }
+        {}
 
         protected Weapons(string name, double weight, int number, int caliber, double shootDistance, int bullets) 
             : base(name, weight, number)

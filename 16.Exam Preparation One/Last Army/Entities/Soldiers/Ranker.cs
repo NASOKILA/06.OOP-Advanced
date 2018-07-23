@@ -18,10 +18,5 @@ public class Ranker : Soldier
 
     protected override double OverallSkillMultiplier => overallSkillMultiplier;
 
-    //po default e 10 i nqma nujda da go prezapisvam
-    //protected override int RegenerationParameter => base.RegenerationParameter;
-
     protected override List<string> WeaponsAllowed => weaponsAllowed;
-
 }
-
