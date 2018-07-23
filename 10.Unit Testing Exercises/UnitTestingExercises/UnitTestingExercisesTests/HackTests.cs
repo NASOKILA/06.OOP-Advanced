@@ -97,6 +97,4 @@ public class HackTests
 
         Assert.AreEqual(result, expectedResult);
     }
-
 }
-

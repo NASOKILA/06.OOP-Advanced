@@ -98,13 +98,11 @@ namespace CustomLinkedList
         {
             if (this.head == null)
             {
-                // We have an empty list -> create a new head and tail
                 this.head = new ListNode(item);
                 this.tail = this.head;
             }
             else
             {
-                // We have a non-empty list -> append the item after tail
                 ListNode newNode = new ListNode(item, this.tail);
                 this.tail = newNode;
             }
@@ -126,7 +124,6 @@ namespace CustomLinkedList
                 throw new ArgumentOutOfRangeException("Invalid index: " + index);
             }
 
-            // Find the element at the specified index
             int currentIndex = 0;
             ListNode currentNode = this.head;
             ListNode prevNode = null;
@@ -137,10 +134,8 @@ namespace CustomLinkedList
                 currentIndex++;
             }
 
-            // Remove the found element from the list of nodes
             this.RemoveListNode(currentNode, prevNode);
 
-            // Return the removed element
             return currentNode.Element;
         }
 
@@ -151,7 +146,6 @@ namespace CustomLinkedList
         /// <returns>The index of the element or -1 if it does not exist</returns>
         public int Remove(T item)
         {
-            // Find the element containing the searched item
             int currentIndex = 0;
             ListNode currentNode = this.head;
             ListNode prevNode = null;
@@ -169,12 +163,10 @@ namespace CustomLinkedList
 
             if (currentNode != null)
             {
-                // The element is found in the list -> remove it
                 RemoveListNode(currentNode, prevNode);
                 return currentIndex;
             }
 
-            // The element is not found in the list -> return -1
             return -1;
         }
 
@@ -226,22 +218,18 @@ namespace CustomLinkedList
             this.count--;
             if (count == 0)
             {
-                // The list becomes empty -> remove head and tail
                 this.head = null;
                 this.tail = null;
             }
             else if (prevNode == null)
             {
-                // The head node was removed --> update the head
                 this.head = node.NextNode;
             }
             else
             {
-                // Redirect the pointers to skip the removed node
                 prevNode.NextNode = node.NextNode;
             }
 
-            // Fix the tail in case it was removed
             if (object.ReferenceEquals(this.tail, node))
             {
                 this.tail = prevNode;

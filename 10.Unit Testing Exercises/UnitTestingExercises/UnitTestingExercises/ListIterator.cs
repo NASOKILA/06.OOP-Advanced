@@ -6,7 +6,6 @@ using System.Text;
 
 public class ListIterator 
 {
-
     private List<string> collection;
 
     private int currentIndex;
@@ -46,6 +45,4 @@ public class ListIterator
 
         Console.WriteLine(this.collection[this.currentIndex]);
     }
-
 }
-

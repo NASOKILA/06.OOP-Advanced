@@ -15,7 +15,6 @@ public class ListIteratorTests
     {
         ListIterator listIterator = new ListIterator(collection);
 
-        //get collection with reflection
         FieldInfo privateFieldCollection = listIterator
             .GetType()
             .GetField("collection", BindingFlags.NonPublic
@@ -89,8 +88,6 @@ public class ListIteratorTests
         ICollection<string> values = (ICollection<string>)privateFieldCollection.GetValue(listIterator);
         string[] arr = values.ToArray();
 
-
-        //get the index so we can use it
         FieldInfo privateFieldIndex = listIterator
             .GetType()
             .GetField("currentIndex", BindingFlags.NonPublic
@@ -101,6 +98,4 @@ public class ListIteratorTests
         
         Assert.That(() => arr[index], Is.EquivalentTo("Stefcho"));
     }
-
 }
-

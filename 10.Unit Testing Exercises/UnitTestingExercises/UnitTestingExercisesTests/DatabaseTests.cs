@@ -6,7 +6,6 @@ using System.Linq;
 [TestFixture]
 public class DatabaseTests
 {
-    
     [TestCase()]
     [TestCase(new int[] {})]
     [TestCase(-1,-2,-3)]
@@ -107,6 +106,4 @@ public class DatabaseTests
 
         Assert.That(db.Fetch(), Is.EquivalentTo(new int[] {1,2}));
     }
-
-
 }

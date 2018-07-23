@@ -6,7 +6,6 @@ using System.Text;
 
 public class ExtendDatabase
 {
-
     private Person[] storage = new Person[16];
 
     public ExtendDatabase(params Person[] people)
@@ -24,13 +23,11 @@ public class ExtendDatabase
 
         bool personIdExists = this.storage.Any(p => p != null && p.Id == person.Id);
 
-
         if (personUsernameExists)
             throw new InvalidOperationException("Username already exists!");
         
         if (personIdExists)
             throw new InvalidOperationException("Id already exists!");
-
 
         bool personAdded = false;
 
@@ -46,7 +43,6 @@ public class ExtendDatabase
 
         if (!personAdded)
             throw new InvalidOperationException("Storage is full!");
-
     }
 
     public void Remove()
@@ -62,6 +58,7 @@ public class ExtendDatabase
                 break;
             }
         }
+		
         if (!personRemoved)
             throw new InvalidOperationException("Storage is Empty!");
     }
@@ -82,7 +79,6 @@ public class ExtendDatabase
     
     public Person FindByUsername(string username)
     {
-
         if (username == null)
             throw new ArgumentNullException();
         
@@ -96,7 +92,6 @@ public class ExtendDatabase
 
     public Person FindById(int id)
     {
-
         if (id < 0)
             throw new ArgumentOutOfRangeException();
 
@@ -107,7 +102,4 @@ public class ExtendDatabase
         
         return person;
     }
-
-
 }
-

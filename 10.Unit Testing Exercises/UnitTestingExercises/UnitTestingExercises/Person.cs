@@ -9,7 +9,6 @@ public class Person
 
     private string username;
 
-
     public Person(int id, string username)
     {
         this.Id = id;
@@ -27,8 +26,4 @@ public class Person
         get { return username; }
         private set { username = value; }
     }
-    
-
-
 }
-

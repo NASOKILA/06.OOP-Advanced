@@ -63,16 +63,11 @@ public class ExtendDatabaseTests
 
     }
 
-    //VVAAAAAJJJJJJJNNNNNNNNNNOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!
-    //Polzvame go za da podaveme instancii na klasa 'Person' v testa za 'Add' Metoda !!!
     public static object[] singlePerson =
     {
         new Person(17, "asi")
     };
 
-    //ZA DA PODADEM INSTANCIQ NA OBEKT POLZVAME object[]{...} KOITO DA VRUSHTA 
-    //TOVA KOETO ISKAME DA PODADEM 
-    //POLZVAME I : TestCaseSource("ImetoNamasivaSobekti")
     [TestCaseSource("singlePerson")]
     public void AddMethodTest(Person person)
     {
@@ -113,7 +108,6 @@ public class ExtendDatabaseTests
     [TestCaseSource("singlePerson")]
     public void AddMethodTest_UserExists_Exeption(Person person)
     {
-
         ExtendDatabase db = new ExtendDatabase(new Person(17, "asi"), new Person(7, "Nasko"), new Person(11, "Toni"));
 
         Assert.That(() => db.Add(person), 
@@ -239,4 +233,3 @@ public class ExtendDatabaseTests
             Throws.Exception);
     }
 }
-

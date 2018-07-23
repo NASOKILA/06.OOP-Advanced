@@ -6,7 +6,6 @@ using System.Text;
 
 public class Database
 {
-
     private int[] storage;
 
     public Database()
@@ -59,6 +58,7 @@ public class Database
                 break;
             }
         }
+		
         if (!itemRemoved)
             throw new InvalidOperationException("Storage is Empty!");
     }
@@ -76,5 +76,4 @@ public class Database
 
         return resultArray;
     }
-
 }

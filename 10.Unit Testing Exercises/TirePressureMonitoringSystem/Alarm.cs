@@ -23,6 +23,5 @@ namespace TDDMicroExercises.TirePressureMonitoringSystem
         {
             get { return _alarmOn; }
         }
-
     }
 }
