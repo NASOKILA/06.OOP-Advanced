@@ -21,8 +21,6 @@
             this.UnitFactory = unitFactory;
         }
 
-
-
         protected IRepository Repository
         {
             get { return repository; }
@@ -34,7 +32,6 @@
             get { return unitFactory; }
             set { unitFactory = value; }
         }
-
 
         public override string Execute()
         {

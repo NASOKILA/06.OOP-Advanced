@@ -7,7 +7,6 @@
 
         public Pikeman() 
             : base(DefaultHealth, DefaultDamage)
-        {
-        }
+        {}
     }
 }

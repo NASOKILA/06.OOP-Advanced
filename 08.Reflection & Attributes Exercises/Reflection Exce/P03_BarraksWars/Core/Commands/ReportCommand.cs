@@ -22,7 +22,6 @@
             set { repository = value; }
         }
 
-
         public override string Execute()
         {
             string output = this.Repository.Statistics;

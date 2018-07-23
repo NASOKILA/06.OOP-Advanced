@@ -38,7 +38,6 @@
             {
                 return this.health;
             }
-
             set
             {
                 if (value < 0)

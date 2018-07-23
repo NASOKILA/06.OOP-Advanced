@@ -11,11 +11,8 @@
         {
             Type type = typeof(BlackBoxInteger);
             
-            //ZA DA IZPOLZVAME 'PRIVATE' KONSTRUKTURA TRQBVA DA MU SLOJIM NAKRAQ 'true' KOETO OZNACHAVA:
-                                                        //NonPuplic = true;
             var instance = Activator.CreateInstance(type, true);
 
-            //vzimame si private Field-a
             FieldInfo innerValueField = type.GetFields(BindingFlags.NonPublic | BindingFlags.Instance)[0];
 
             var Add = type.GetMethod("Add", BindingFlags.NonPublic | BindingFlags.Instance);
@@ -39,9 +36,9 @@
 
                 switch (command)
                 {
-                    case "Add": //PODAVAME MU INSTANCIQTA ZA DA ZNAE KUDE DA IZOULNI METODA !!!!!!!!!
+                    case "Add":
                         Add.Invoke(instance, new object[] { number });
-                        Console.WriteLine(innerValueField.GetValue(instance)); //printirame tipa na innerValue ot tazi instanciq
+                        Console.WriteLine(innerValueField.GetValue(instance)); 
                         break;
                     case "Subtract":
                         Subtract.Invoke(instance, new object[] { number });
@@ -64,8 +61,7 @@
                         Console.WriteLine(innerValueField.GetValue(instance));
                         break;
                 }
-            }
-            
+            }           
         }
     }
 }

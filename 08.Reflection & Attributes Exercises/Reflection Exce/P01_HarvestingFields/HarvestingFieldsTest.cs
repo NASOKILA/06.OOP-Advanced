@@ -7,7 +7,6 @@
     {
         public static void Main()
         {
-            //TODO put your reflection code here
             Type type = Type.GetType("P01_HarvestingFields.HarvestingFields");
 
             var allFields = type.GetFields(
@@ -71,10 +70,7 @@
                     default:
                         throw new InvalidOperationException("Invalid input !");
                 }
-            }
-            
-
-
+            }    
         }
     }
 }

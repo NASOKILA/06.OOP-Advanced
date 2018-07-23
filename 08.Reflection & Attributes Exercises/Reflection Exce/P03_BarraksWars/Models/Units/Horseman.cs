@@ -8,6 +8,6 @@ namespace _03BarracksFactory.Models.Units
 
         public Horseman()
             :base(DefaultHealth, DefaultAttack)
-        { }
+        {}
     }
 }

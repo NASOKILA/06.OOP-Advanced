@@ -7,7 +7,6 @@
 
     public abstract class Command : IExecutable
     {
-
         private string[] data;
 
         protected Command(string[] data)
@@ -21,7 +20,6 @@
             set { data = value; }
         }
         
-        //Implementirame metoda ot interfeisa abstraktno !!!
         public abstract string Execute();
     }
 }

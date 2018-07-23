@@ -43,12 +43,10 @@
 
         public void RemoveUnit(string unitType)
         {
-            //proverqvame dali vuobshte sushtestvuva i go namalqvame s 1
             if (amountOfUnits[unitType] > 0)
                 this.amountOfUnits[unitType]--;
             else
                 throw new InvalidOperationException("No Units left to retire !");
-
         }
     }
 }

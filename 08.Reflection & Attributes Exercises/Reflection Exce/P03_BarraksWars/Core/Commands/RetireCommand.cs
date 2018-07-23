@@ -33,10 +33,8 @@
             }
             catch (Exception e)
             {
-                //podavame nov exception sus stariq v nego
                 throw new ArgumentException("No such units in repository.", e);
-            }
-        
+            }     
         }
     }
 }

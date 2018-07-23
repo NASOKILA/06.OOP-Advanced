@@ -10,15 +10,10 @@
     class Engine : IRunnable
     {
 
-        //V ENGINA NE TRQBVA DA IMAME MNOGO DUMICHKAtA 'new'.
-        //DOBRA PRAKTIKA E DRUGI KLASOVE DA NI SUZDAVAT INSTANCIITE KOITO SHTE NI TRQBVAT.
-
         private ICommandInterpreter commandInterpreter;
 
         public Engine(ICommandInterpreter commandInterpreter)
         {
-            //POLZVAME SAMO COMMAND INTERPRETATORA, TRIEM DRUGITE PRIVATE POLETA ZASHTOTO SEGA SE 
-            //SUDURJAT VUTRE V NEGO.
             this.commandInterpreter = commandInterpreter;
         }
         
@@ -32,27 +27,19 @@
                     string[] data = input.Split();
                     string commandName = data[0];
 
-                    //PURVO NAMIRAME KOMANDATA 
-                    //veche vrushta IExcecutable
                     IExecutable command = commandInterpreter
                         .InterpretCommand(data, commandName);
                     
-                    //POSLE Q POLZVAME 
                     try
                     {
-
-                        //vzimame metoda s REFLECTION i go invokvame S REFLECTION
                         MethodInfo method = typeof(IExecutable).GetMethods().First();
 
-                        //kato go invoknem ni vrushta string, KASTVAME GO
                         string result = (string)method.Invoke(command, null);
 
                         Console.WriteLine(result);
-
                     }
                     catch (TargetInvocationException e)
                     {
-                        //hvurlqme vutreshnata greshka
                         throw e.InnerException;
                     }
                 }
@@ -61,8 +48,6 @@
                     Console.WriteLine(e.Message);
                 }
             }
-        }
-
-        
+        }  
     }
 }
