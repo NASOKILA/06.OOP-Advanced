@@ -17,4 +17,3 @@ public class AttackCommand : ICommand
         throw new NotImplementedException();
     }
 }
-

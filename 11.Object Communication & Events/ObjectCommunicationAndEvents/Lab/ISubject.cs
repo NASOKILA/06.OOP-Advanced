@@ -10,6 +10,4 @@ public interface ISubject
     void Unregister(IObserver observer);
 
     void NotifyObservers();
-
 }
-

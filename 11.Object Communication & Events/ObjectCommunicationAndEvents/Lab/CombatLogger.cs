@@ -29,4 +29,3 @@ public class CombatLogger : Logger
         this.PassToSuccessor(type, message);
     }
 }
-

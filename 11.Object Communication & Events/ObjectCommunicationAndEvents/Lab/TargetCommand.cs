@@ -19,4 +19,3 @@ public class TargetCommand : ICommand
         throw new NotImplementedException();
     }
 }
-

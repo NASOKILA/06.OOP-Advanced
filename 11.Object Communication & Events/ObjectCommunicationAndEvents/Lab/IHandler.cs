@@ -8,4 +8,3 @@ public interface IHandler
 
     void SetSuccessor(IHandler handler);
 }
-

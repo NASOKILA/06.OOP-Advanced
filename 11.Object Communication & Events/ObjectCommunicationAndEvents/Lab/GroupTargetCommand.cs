@@ -19,4 +19,3 @@ public class GroupTargetCommand : ICommand
         throw new NotImplementedException();
     }
 }
-

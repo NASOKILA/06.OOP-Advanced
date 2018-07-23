@@ -30,6 +30,4 @@ public class Group : IAttackGroup
     {
         throw new NotImplementedException();
     }
-
-
 }

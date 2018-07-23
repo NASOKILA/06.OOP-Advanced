@@ -10,4 +10,3 @@ public class CommandExecutor : IExecutor
         command.Execute();
     }
 }
-

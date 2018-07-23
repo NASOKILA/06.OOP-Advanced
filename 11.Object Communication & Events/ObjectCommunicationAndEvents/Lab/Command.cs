@@ -10,4 +10,3 @@ public class Command : ICommand
         throw new NotImplementedException();
     }
 }
-

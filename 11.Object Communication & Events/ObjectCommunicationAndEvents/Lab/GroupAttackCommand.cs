@@ -5,7 +5,6 @@ using System.Text;
 
 public class GroupAttackCommand : ICommand
 {
-
     private IAttackGroup attackGroup;
 
     public GroupAttackCommand(IAttackGroup attackGroup)
@@ -18,4 +17,3 @@ public class GroupAttackCommand : ICommand
         throw new NotImplementedException();
     }
 }
-

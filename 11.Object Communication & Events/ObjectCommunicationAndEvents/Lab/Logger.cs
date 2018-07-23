@@ -5,7 +5,6 @@ using System.Text;
 
 public abstract class Logger : IHandler
 {
-
     private IHandler successor;
 
     public abstract void Handle(LogType type, string message);
@@ -22,7 +21,4 @@ public abstract class Logger : IHandler
             this.successor.Handle(type, message);
         }
     }
-
 }
-
-

@@ -11,4 +11,3 @@ public enum LogType
     ERROR,
     EVENT
 }
-

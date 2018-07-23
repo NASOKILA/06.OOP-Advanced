@@ -11,4 +11,3 @@ public interface IAttackGroup
 
     void GroupAttack();
 }
-

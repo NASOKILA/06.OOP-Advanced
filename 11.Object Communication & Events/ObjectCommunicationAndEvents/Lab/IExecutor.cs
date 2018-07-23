@@ -7,4 +7,3 @@ public interface IExecutor
 {
     void ExecuteCommand(Command command);
 }
-

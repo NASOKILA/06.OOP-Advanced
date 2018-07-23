@@ -12,7 +12,6 @@ public abstract class AbstractHero : IAttacker
     private Logger logger;
     private int rewards;
     
-
     protected AbstractHero(string id, int damage, Logger logger)
     {
         this.rewards = 0;
