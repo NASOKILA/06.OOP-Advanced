@@ -11,13 +11,10 @@ public class Program
         NameComparator nameComparator = new NameComparator();
         AgeComparator ageComparator = new AgeComparator();
 
-        //podavame nameComparatora vutre za da se sortira
         SortedSet<Person> peopleOrderedByName = new SortedSet<Person>(nameComparator);
 
-        //podavame ageComparatora vutre za da se sortira
         SortedSet<Person> peopleOrderedByAge = new SortedSet<Person>(ageComparator);
 
-        
         for (int i = 0; i < n; i++)
         {
             var tokens = Console.ReadLine().Split().ToList();
@@ -38,7 +35,5 @@ public class Program
         {
             Console.WriteLine(item.name + ' ' + item.age);
         }
-
     }
 }
-

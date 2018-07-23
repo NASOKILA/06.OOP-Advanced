@@ -6,10 +6,10 @@ public class Program
 {
     static void Main(string[] args)
     {
-
         List<Person> people = new List<Person>();
         
         string command;
+		
         while ((command = Console.ReadLine()) != "END")
         {
             var tokens = command.Split().ToList();
@@ -22,9 +22,7 @@ public class Program
         }
 
         int n = int.Parse(Console.ReadLine());
-
         Person currentPErson = people[n - 1];
-
         int equalPeople = 0;
         int deferentPeople = 0;
 
@@ -39,9 +37,7 @@ public class Program
             {
                 deferentPeople++;
             }
-
         }
-
 
         if (equalPeople == 1)
         {
@@ -51,7 +47,5 @@ public class Program
         {
             Console.WriteLine($"{equalPeople} {deferentPeople} {people.Count}");
         }
-
     }
 }
-

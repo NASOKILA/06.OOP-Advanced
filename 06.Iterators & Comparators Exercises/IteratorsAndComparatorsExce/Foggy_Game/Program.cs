@@ -12,9 +12,6 @@ public class Program
 
         Lake lake = new Lake(stones);
 
-        //string.Join() izvikva foreach cikul koito tursi IEnumerator !!!!!!!
         Console.WriteLine(string.Join(", ", lake));
-
     }
 }
-

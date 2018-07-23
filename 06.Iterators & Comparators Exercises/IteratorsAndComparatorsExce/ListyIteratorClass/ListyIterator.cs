@@ -44,7 +44,6 @@ public class ListyIterator<T> : IEnumerable<T>
 
         T element = this.collection[this.currentIndex];
         Console.WriteLine(element);
-
     }
 
     public IEnumerator<T> GetEnumerator()
@@ -62,7 +61,6 @@ public class ListyIterator<T> : IEnumerable<T>
 
     public void PrintAll()
     {
-
         if (this.collection.Count == 0)
             throw new InvalidOperationException("Invalid Operation!");
         
@@ -72,18 +70,5 @@ public class ListyIterator<T> : IEnumerable<T>
             sb.Append($"{item} ");
         
         Console.WriteLine(sb.ToString().Trim());
-
     }
-
 }
-
-/*
-Create 1 2
-Move
-Move
-Move
-HasNext
-END
- 
-     
-*/

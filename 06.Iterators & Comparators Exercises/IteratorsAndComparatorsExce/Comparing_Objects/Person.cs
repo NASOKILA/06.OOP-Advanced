@@ -4,7 +4,6 @@ using System.Text;
 
 public class Person : IComparable<Person>
 {
-
     public Person(string name, int age, string town)
     {
         this.name = name;
@@ -20,7 +19,6 @@ public class Person : IComparable<Person>
 
     public int CompareTo(Person other)
     {
-
         int nameComparison = this.name.CompareTo(other.name);
 
         if (nameComparison == 0)
@@ -37,7 +35,5 @@ public class Person : IComparable<Person>
         }
          
         return nameComparison;
-   
     }
 }
-

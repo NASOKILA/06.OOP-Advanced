@@ -11,7 +11,6 @@ public class Program
 
         while (true)
         {
-
             var tokens = Console.ReadLine()
                 .Split(new string[] {" ", ","},StringSplitOptions.RemoveEmptyEntries)
                 .ToList();
@@ -46,7 +45,6 @@ public class Program
 
                     default:
                         throw new ArgumentException("Invalid Command !");
-
                 }
             }
             catch (Exception e)
@@ -56,4 +54,3 @@ public class Program
         }
     }
 }
-

@@ -24,4 +24,3 @@ public class NameComparator : IComparer<Person>
         return lengthCompare;
     }
 }
-
