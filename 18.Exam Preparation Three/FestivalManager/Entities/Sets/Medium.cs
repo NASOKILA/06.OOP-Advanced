@@ -4,7 +4,6 @@
 
     public class Medium : Set
     {
-
         public Medium(string name) 
             : base(name, 40)
         {}

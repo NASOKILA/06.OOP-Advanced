@@ -9,15 +9,13 @@
     public class SongFactory : ISongFactory
 	{
 		public ISong CreateSong(string name, TimeSpan duration)
-		{
-			
+		{			
             Type @class = Assembly.GetCallingAssembly().GetTypes()
                 .FirstOrDefault(t => t.Name == "Song");
 
             ISong song = (ISong)Activator.CreateInstance(@class, name, duration) as ISong;
 
             return song;
-
         }
 	}
 }

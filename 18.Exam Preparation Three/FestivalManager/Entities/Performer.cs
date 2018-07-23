@@ -12,7 +12,6 @@
 		{
 			this.Name = name;
 			this.Age = age;
-
 			this.instruments = new List<IInstrument>();
 		}
 

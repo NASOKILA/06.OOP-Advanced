@@ -30,7 +30,6 @@ namespace FestivalManager.Entities.Instruments
 
                 if (this.wear > MaxWear)
                     this.wear = 100;
-
             }
 		}
 

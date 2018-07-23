@@ -11,15 +11,13 @@
 	public class InstrumentFactory : IInstrumentFactory
 	{
 		public IInstrument CreateInstrument(string type)
-		{
-           
+		{         
             Type @class = Assembly.GetCallingAssembly().GetTypes()
                .FirstOrDefault(t => t.Name == type);
 
             IInstrument instrument = (IInstrument)Activator.CreateInstance(@class);
 
             return instrument;
-
         }
 	}
 }

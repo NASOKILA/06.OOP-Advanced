@@ -6,7 +6,6 @@
 
     public class Stage : IStage
 	{
-		// да си вкарват през полетата бе
 		public readonly List<ISet> sets;
 		public readonly List<ISong> songs;
 		public readonly List<IPerformer> performers;

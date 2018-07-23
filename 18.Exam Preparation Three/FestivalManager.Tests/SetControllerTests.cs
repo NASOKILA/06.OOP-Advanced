@@ -1,16 +1,5 @@
-// Use this file for your unit tests.
-// When you are ready to submit, REMOVE all using statements to your project (entities/controllers/etc)
 namespace FestivalManager.Tests
-{
-    
-    /*
-    using FestivalManager.Core.Controllers;
-    using FestivalManager.Core.Controllers.Contracts;
-    using FestivalManager.Entities;
-    using FestivalManager.Entities.Contracts;
-    using FestivalManager.Entities.Instruments;
-    using FestivalManager.Entities.Sets;
-    */
+{ 
     using NUnit.Framework;
     using System;
     using System.Linq;
@@ -29,50 +18,33 @@ namespace FestivalManager.Tests
             this.setController = new SetController(stage);
         }
 
-      
-
         [Test]
         public void TestControllerParametersCount()
         {
-
-
             Type type = typeof(SetController);
             ConstructorInfo ctor = type.GetConstructors().First();
             ParameterInfo[] @params = ctor.GetParameters();
-
-            //Proverqvame broqt im
-            Assert.AreEqual(@params.Count(), 1);
-            
+            Assert.AreEqual(@params.Count(), 1);  
         }
-
 
         [Test]
         public void TestControllerParametersType()
         {
-
-
             Type type = typeof(SetController);
             ConstructorInfo ctor = type.GetConstructors().First();
-            ParameterInfo[] @params = ctor.GetParameters();
-            
-            //Proverqvame tipovete im
+            ParameterInfo[] @params = ctor.GetParameters();            
             Assert.AreEqual(@params[0].ParameterType.ToString(), "FestivalManager.Entities.Contracts.IStage");
         }
 
-
-        
         [Test]
         public void TestPerformSetsEmpty()
         {
             Assert.AreEqual(setController.PerformSets(), string.Empty);
         }
 
-
         [Test]
         public void TestPerformSets()
         {
-
-
             ISet set = new Short("NewSet");
             IPerformer performer = new Performer("Perofrmer1", 10);
             ISong song = new Song("NewSong", new TimeSpan(0, 5, 5));
@@ -84,15 +56,10 @@ namespace FestivalManager.Tests
             string result = setController.PerformSets();
             Assert.AreEqual(result, "1. NewSet:\r\n-- Did not perform");
         }
-
-
-
 
         [Test]
         public void TestPerformSetsSetDidNotPerform()
         {
-
-
             ISet set = new Short("NewSet");
             IPerformer performer = new Performer("Perofrmer1", 10);
             ISong song = new Song("NewSong", new TimeSpan(0, 5, 5));
@@ -105,11 +72,9 @@ namespace FestivalManager.Tests
             Assert.AreEqual(result, "1. NewSet:\r\n-- Did not perform");
         }
 
-
         [Test]
         public void TestPerformSetsSetSuccessful()
-        {
-            
+        {          
             ISet set = new Short("NewSet");
 
             IInstrument drum = new Drums();
@@ -131,11 +96,9 @@ namespace FestivalManager.Tests
             Assert.AreEqual(result, "1. NewSet:\r\n-- 1. NewSong (05:05)\r\n-- Set Successful");
         }
 
-
         [Test]
         public void TestPerformSetsSetThrowsError()
         {
-
             ISet shortSet = new Short("shortSet");
             ISet longSet = new Long("longSet");
             ISet mediumSet = new Medium("mediumSet");
@@ -156,7 +119,6 @@ namespace FestivalManager.Tests
             vladi.AddInstrument(drum);
 
             bojo.AddInstrument(microphone);
-
 
             ISong song = new Song("NewSong", new TimeSpan(0, 5, 5));
             ISong song2 = new Song("NewSong2", new TimeSpan(52, 7, 5));
@@ -175,17 +137,14 @@ namespace FestivalManager.Tests
             longSet.AddPerformer(bojo);
             longSet.AddPerformer(nakov);
 
-
             shortSet.AddSong(song);
-          
-            
+                   
             Assert.Throws<InvalidOperationException>(() => { shortSet.AddSong(song2); });
         }
 
         [Test]
         public void TestPerformSetsSetSuccessfulMultipeSetsInstrumentsPerformersAndSongs()
         {
-
             ISet shortSet = new Short("shortSet");
             ISet longSet = new Long("longSet");
             ISet mediumSet = new Medium("mediumSet");
@@ -206,7 +165,6 @@ namespace FestivalManager.Tests
             vladi.AddInstrument(drum);
 
             bojo.AddInstrument(microphone);
-
 
             ISong song = new Song("NewSong", new TimeSpan(0, 5, 5));
             ISong song2 = new Song("NewSong2", new TimeSpan(0, 7, 5));
@@ -241,7 +199,6 @@ namespace FestivalManager.Tests
             longSet.AddSong(song3);
             longSet.AddSong(song4);
 
-
             stage.AddSet(shortSet);
             stage.AddSet(mediumSet);
             stage.AddSet(longSet);
@@ -258,7 +215,5 @@ namespace FestivalManager.Tests
             string result = setController.PerformSets();
             Assert.AreNotEqual(result, "1. shortSet:\r\n-- 1. NewSong (05:05)\r\n-- Set Successful\r\n2. mediumSet:\r\n-- Did not perform\r\n3. longSet:\r\n-- Did not perform");
         }
-
-
     }
 }
