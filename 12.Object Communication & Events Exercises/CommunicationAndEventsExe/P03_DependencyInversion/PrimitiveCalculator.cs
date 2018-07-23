@@ -4,7 +4,6 @@
 
     public class PrimitiveCalculator
     {
-
         private IStrategy currentStrategy;
 
         public PrimitiveCalculator(IStrategy passedStrategy)
@@ -23,8 +22,3 @@
         }
     }
 }
-
-
-
-
-

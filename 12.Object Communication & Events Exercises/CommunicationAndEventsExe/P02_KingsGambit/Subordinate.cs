@@ -27,9 +27,7 @@
             this.Hits--;
 
             if (this.Hits == 0)
-                this.Die();    
-            
-            
+                this.Die();         
         }
 
         public void Die()
@@ -38,18 +36,14 @@
 
             if (this.DeathSubordinate != null)
             {
-                //izvikvame go sus this za da se znae che tozi podchinen e umrql
                 DeathSubordinate.Invoke(this);
             }
         }
 
-
-        //pravim go virtual
         public virtual void ReactToAttack()
         {
             if(IsAlive)
                 Console.WriteLine($"{this.GetType().Name} {this.Name} is {this.Action}!");    
-        }
-        
+        } 
     }
 }

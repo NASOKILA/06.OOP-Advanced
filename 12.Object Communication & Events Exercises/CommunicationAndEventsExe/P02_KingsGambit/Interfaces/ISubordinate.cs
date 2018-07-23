@@ -1,6 +1,5 @@
 ﻿namespace P02_KingsGambit.Interfaces
 {
-
     public delegate void SubordinatedEventHandler(object sender);
 
     public interface ISubordinate : INameble, IMortal

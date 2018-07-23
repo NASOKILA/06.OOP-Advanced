@@ -10,7 +10,6 @@
             this.Hits = 3;
         }
 
-        
         public override void ReactToAttack()
         {
             if(this.IsAlive)
@@ -18,4 +17,3 @@
         }
     }
 }
-

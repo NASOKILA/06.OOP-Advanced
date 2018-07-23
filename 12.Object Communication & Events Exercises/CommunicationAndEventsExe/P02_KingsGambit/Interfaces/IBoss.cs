@@ -8,7 +8,6 @@
     {
         IReadOnlyCollection<ISubordinate> Subordinates { get; }
 
-        //metod za dobavqne na podchineni TOVA SAMO KRALQ SHTE GO IMA ZASHTOTO SAMO TOI IMPlementirA IBoss<>
         void AddSubortinate(ISubordinate subordinate);
 
         void RemoveSubortinate(ISubordinate subordinate);

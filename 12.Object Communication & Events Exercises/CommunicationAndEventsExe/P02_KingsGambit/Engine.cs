@@ -13,7 +13,6 @@
             this.king = king;
         }
 
-        //vmukvame si kralq
         public void Run()
         {
             string input = "";
@@ -27,31 +26,18 @@
                 switch (command)
                 {
                     case "Attack":
-                        //kralq i podchinenite mu reaigirat na atakata
                         king.GetAttacked();
                         break;
                     case "Kill":
-                        //trqbva da ubiem podchineniq
-                        //namirame go po ime kato go tursim v kralq
                         ISubordinate subordinate = king.Subordinates.First(s => s.Name == name);
 
-                        //i go obivame
                         subordinate.TakeDamage();
-
-                        //TRQBVA DA STANE S EVENT  NE S METOD I PROVERKA NA VSEKI 'Kill'
-                        //if (!subordinate.IsAlive)
-                        //  king.RemoveSubortinate(subordinate);
-
-
 
                         break;
                     default:
                         throw new ArgumentException("Invalid Command !");
                 }
-
             }
-
         }
-
     }
 }

@@ -16,6 +16,5 @@
 
             engine.Run(calculator);
         }
-        
     }
 }

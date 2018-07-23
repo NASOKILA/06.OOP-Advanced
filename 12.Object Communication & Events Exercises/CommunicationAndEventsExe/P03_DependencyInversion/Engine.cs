@@ -10,6 +10,7 @@
         {
 
             string input = "";
+			
             while ((input = Console.ReadLine()) != "End")
             {
                 string[] tokens = input.Split().ToArray();
@@ -27,9 +28,7 @@
                     int numberTwo = int.Parse(tokens[1]);
                     Console.WriteLine(calculator.performCalculation(numberOne, numberTwo));
                 }
-
             }
-
         }
 
         public static IStrategy FindStrategy(char @operator)
@@ -55,8 +54,6 @@
             }
 
             return strategyToChange;
-
         }
-
     }
 }
