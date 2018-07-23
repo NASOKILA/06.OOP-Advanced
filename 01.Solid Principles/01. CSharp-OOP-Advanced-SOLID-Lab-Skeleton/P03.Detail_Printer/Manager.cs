@@ -18,6 +18,5 @@ namespace P03.DetailPrinter
             return base.ToString() + Environment.NewLine + 
                 string.Join(Environment.NewLine, Documents);
         }
-
     }
 }

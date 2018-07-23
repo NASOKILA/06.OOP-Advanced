@@ -7,6 +7,7 @@ namespace P04.Recharge
     public class Robot : Worker, IRechargeable
     {
         private int capacity;
+		
         private int currentPower;
 
         public Robot(string id, int capacity) : base(id)
@@ -34,6 +35,5 @@ namespace P04.Recharge
         {
             base.Work(hours);
         }
-
     }
 }

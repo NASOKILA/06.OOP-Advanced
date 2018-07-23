@@ -14,9 +14,5 @@
         {
             this.workingHours += hours;
         }
-
-       // public abstract void Sleep();
-
-       // public abstract void Recharge();
     }
 }

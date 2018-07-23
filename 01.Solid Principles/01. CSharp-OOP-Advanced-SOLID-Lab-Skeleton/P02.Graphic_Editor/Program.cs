@@ -12,9 +12,7 @@ namespace P02.Graphic_Editor
             IShape shapeR = new Rectangle();
             IShape shapeS = new Square();
             
-
             graphicEditor.DrawShape(shapeS);
-
         }
     }
 }

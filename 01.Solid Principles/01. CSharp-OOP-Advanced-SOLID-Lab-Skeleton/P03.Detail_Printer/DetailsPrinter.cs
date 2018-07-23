@@ -25,6 +25,5 @@ namespace P03.DetailPrinter
         {
             Console.WriteLine(employee.ToString());
         }
-
     }
 }
