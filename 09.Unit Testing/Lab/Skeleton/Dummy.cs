@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 public class Dummy : ITarget
 {
     private int health;

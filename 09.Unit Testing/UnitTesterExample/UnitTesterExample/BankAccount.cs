@@ -6,7 +6,6 @@
 
     public class BankAccount
     {
-
         public BankAccount()
         {
             this.Balance = 0;
@@ -31,6 +30,5 @@
 
             this.Balance -= amount;
         }
-
     }
 }

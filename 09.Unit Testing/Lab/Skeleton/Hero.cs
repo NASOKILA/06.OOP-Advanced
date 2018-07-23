@@ -8,7 +8,7 @@
     {
         this.name = name;
         this.experience = 0;
-        this.weapon = weapon; //polzvame dependency injection
+        this.weapon = weapon; 
     }
 
     public string Name

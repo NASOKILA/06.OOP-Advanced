@@ -13,7 +13,7 @@ public class DummyTests
     private Dummy dummy;
 
     [SetUp]
-    public void initializeTest() //Shte se izpulni predi vseki test
+    public void initializeTest() 
     {
         this.dummy = new Dummy(initialHealth, initialExp);
     }
@@ -25,13 +25,11 @@ public class DummyTests
         Assert.That(dummy.Health, Is.EqualTo(this.initialHealth - this.pointsTaken));
     }
 
-    
     [Test]
     public void DeadDummyThrowsExceptionIfAttacked()
     {
         int deadDummyHealth = 0;
 
-        //Vzimame s Reflection private health i go setvame na 0 za da bude murtav 'dummy'
         var health = this.dummy.GetType().GetField("health",
             System.Reflection.BindingFlags.NonPublic |
             System.Reflection.BindingFlags.Static |
@@ -39,18 +37,15 @@ public class DummyTests
 
         health.SetValue(this.dummy, deadDummyHealth);
 
-        //ACT & ASSERT
         Assert.That(() => dummy.TakeAttack(this.pointsTaken),
             Throws.InvalidOperationException.With.Message.EqualTo("Dummy is dead."));
     }
 
-    
     [Test]
     public void DeadDummyCanGiveXP()
     {
         int deadDummyHealth = 0;
 
-        //Vzimame s Reflection private health i go setvame na 0 za da bude murtav 'dummy'
         var health = this.dummy.GetType().GetField("health",
             System.Reflection.BindingFlags.NonPublic |
             System.Reflection.BindingFlags.Static |
@@ -58,22 +53,15 @@ public class DummyTests
 
         health.SetValue(this.dummy, deadDummyHealth);
 
-        //ACT
         int givenExperience = dummy.GiveExperience();
 
-        //ASSERT
         Assert.That(givenExperience, Is.EqualTo(this.initialExp));
     }
 
-    
     [Test]
     public void AliveDummyCantGiveXP()
-    {
-        
-        //ACT & ASSERT
+    {    
         Assert.That(() => dummy.GiveExperience(),
             Throws.InvalidOperationException.With.Message.EqualTo("Target is not dead."));
     }
-
 }
-

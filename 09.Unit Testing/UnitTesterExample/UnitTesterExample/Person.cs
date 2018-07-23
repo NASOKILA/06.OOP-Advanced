@@ -5,8 +5,8 @@ using System.Text;
 
 public class Person
 {
-
     private string name;
+	
     private int age;
 
     public string Name
@@ -24,6 +24,4 @@ public class Person
         this.name = name;
         this.age = age;
     }
-    
 }
-
