@@ -7,18 +7,14 @@ namespace ReflectionDemo
 
     public class TestReflection: IBaseInterface, IDerivedInterfase
     {
-        //poleta
         private static string privateStatic = "";
         public static string publicStatic = "";
 
         private string privateInstance = "";
         public string publicInstance = "";
 
-
-        //properties:
         public int PublicIntProperty { get; set; }
         private int PrivateIntProperty { get; set; }
-
 
         public TestReflection()
         {
@@ -40,17 +36,12 @@ namespace ReflectionDemo
         public TestReflection(double test)
         {
             Console.WriteLine("DOUBLE CONSTRUCTOR");
-        }
-        
+        }   
     }
 
     interface IBaseInterface
-    {
-
-    }
+    {}
 
     interface IDerivedInterfase
-    {
-
-    }
+    {}
 }

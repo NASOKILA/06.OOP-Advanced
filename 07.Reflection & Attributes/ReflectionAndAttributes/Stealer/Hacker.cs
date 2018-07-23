@@ -18,6 +18,5 @@ public class Hacker
     public double BankAccountBalance { get; private set; }
 
     public void DownloadAllBankAccountsInTheWorld()
-    {
-    }
+    {}
 }
