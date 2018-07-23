@@ -10,7 +10,6 @@ namespace GenericTypes
         {
             this.Name = name;
             this.Age = age;
-
         }
 
         public string Name { get; set; }

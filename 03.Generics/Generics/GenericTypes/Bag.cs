@@ -5,17 +5,14 @@ using System.Text;
 
 namespace GenericTypes
 {
-    //Pravim klasa da e Generic kato mu lsagame <T>
     public class Bag<T>
     {
-
         public Bag()
         {
             this.Items = new List<T>();
         }
 
         private List<T> Items { get; }
-
 
         public T GetEmenementAtIndex(int index) {
             
@@ -39,6 +36,5 @@ namespace GenericTypes
         {
             return string.Join(", ", this.Items);
         }
-
     }
 }

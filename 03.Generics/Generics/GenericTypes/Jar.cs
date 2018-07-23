@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 
 
-//implementira Generic interfeisa
 public class Jar<T> : IJar<T>
 {
 
@@ -24,6 +23,4 @@ public class Jar<T> : IJar<T>
 
         return lastItem;
     }
-
 }
-

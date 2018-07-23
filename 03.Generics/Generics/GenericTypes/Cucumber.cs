@@ -9,4 +9,3 @@ public class Cucumber
 
     public int SeedsCount { get; }
 }
-

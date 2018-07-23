@@ -8,4 +8,3 @@ public class Program
         int[] integers = ArrayCreator.Create(10, 33);
     }
 }
-

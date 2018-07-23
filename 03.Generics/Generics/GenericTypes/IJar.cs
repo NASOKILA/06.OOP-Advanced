@@ -11,4 +11,3 @@ public interface IJar<T>
 
     int Count { get; }
 }
-

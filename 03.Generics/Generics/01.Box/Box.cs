@@ -5,7 +5,6 @@ using System.Text;
 
 public class Box<T>
 {
-
     public Box()
     {
         this.Items = new List<T>();
@@ -28,6 +27,4 @@ public class Box<T>
         
         return lastItem;
     }
-
 }
-
